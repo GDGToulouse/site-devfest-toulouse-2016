@@ -1,16 +1,16 @@
 module.exports = {
   statistics: [{
-    counter: 500,
-    caption: 'Attendees'
+    counter: 250,
+    caption: 'Participants'
   }, {
-    counter: 2,
-    caption: 'Days'
+    counter: 1,
+    caption: 'Journée'
   }, {
-    counter: 40,
+    counter: 20,
     caption: 'Sessions'
   }, {
     counter: 3,
-    caption: 'Parallel tracks'
+    caption: 'Tracks en parallèle'
   }],
   callToAction: {
     text: 'GDG DevFest 2014',
@@ -29,7 +29,7 @@ module.exports = {
     albumUrl: 'https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1'
   },
   ticketsBlock: {
-    title: 'Tickets',
+    title: 'Billets',
     tickets: [{
       name: 'Student',
       price: 400,

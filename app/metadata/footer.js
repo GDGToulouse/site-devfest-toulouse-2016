@@ -2,7 +2,7 @@ module.exports = {
   footer: {
     blocks: [
       {
-        title: 'For visitors',
+        title: 'Visiteurs',
         links: [
           {
             text: 'Google Developers',
@@ -10,48 +10,43 @@ module.exports = {
             newTab: true
           },
           {
-            text: 'GDG DevFest Ukraine 2013',
-            url: 'http://gdg-devfest-ua.appspot.com/',
+            text: 'GDG DevFest Nantes',
+            url: 'https://devfest.gdgnantes.com/',
             newTab: true
           },
           {
-            text: 'GDG DevFest Ukraine 2014',
-            url: 'http://devfest.gdg.org.ua/2014/',
+            text: 'GDG DevFest Paris',
+            url: 'http://devfest.gdgparis.com/',
             newTab: true
           },
           {
-            text: 'Code of Conduct',
+            text: 'Code de Conduite',
             url: '/code-of-conduct'
           }
         ]
       },
       {
-        title: 'For partners',
+        title: 'Devenir Partenaire',
         links: [
           {
-            text: 'Partnership Proposition',
-            url: '/assets/GDG_DevFest_Ukraine_2015_Partnership_Proposition.pdf',
+            text: 'Proposition de partenariat',
+            url: '/assets/#',
             newTab: true
           },
           {
-            text: 'Media Kit',
-            url: 'http://bit.ly/dfua-media',
-            newTab: true
-          },
-          {
-            text: 'Media Accreditation',
-            url: 'https://docs.google.com/forms/d/1sOjuv7rv77JXq2jPBdh3tg-O4CV8HpLTED5cjJBxnG8/viewform',
+            text: 'Kit Média',
+            url: '#',
             newTab: true
           }
         ]
       }
     ],
     contactBlock: {
-      title: 'Contact us',
+      title: 'Nous contacter',
       links: [
         {
-          text: 'devfest@google.com',
-          url: 'mailto:devfest@google.com'
+          text: 'devfest-toulouse-team@googlegroups.com',
+          url: 'mailto:devfest-toulouse-team@googlegroups.com'
         }
       ]
     }
