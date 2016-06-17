@@ -14,7 +14,7 @@
           }
         },
 
-        _generateClass: (value) => value.replace(/\W+/g, '-').replace(/([a-z\d])([A-Z])/g, '$1-$2').toLowerCase(),
+        _generateClass: (value) => value.replace(/é/g, 'e').replace(/\W+/g, '-').replace(/([a-z\d])([A-Z])/g, '$1-$2').toLowerCase(),
 
         _randomOrder: (array) => array.sort(() => 0.5 - Math.random()),
 

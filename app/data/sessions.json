@@ -2,7 +2,10 @@
   "1": {
     "id": 1,
     "title": "Badges & petit déjeuner",
-    "description": "Venez récupérer votre badge et manger des chocolatines avec un bon café en discutant avec vos pairs"
+    "description": "Venez récupérer votre badge et manger des chocolatines avec un bon café en discutant avec vos pairs",
+    "track": {
+      "title": "Grand Hall"
+    }
   },
   "2": {
     "id": 2,
@@ -16,17 +19,26 @@
   "3": {
     "id": 3,
     "title": "Pause réveil",
-    "description": "Plein de caféine pour vous réveiller"
+    "description": "Plein de caféine pour vous réveiller",
+    "track": {
+      "title": "Grand Hall"
+    }
   },
   "4": {
     "id": 4,
     "title": "A table !",
-    "description": "Un bon gros repas"
+    "description": "Un bon gros repas",
+    "track": {
+      "title": "Grand Hall"
+    }
   },
   "5": {
     "id": 5,
     "title": "Pause café",
-    "description": "Avec même du thé pour les irréductibles"
+    "description": "Avec même du thé pour les irréductibles",
+    "track": {
+      "title": "Grand Hall"
+    }
   },
   "6": {
     "id": 6,
@@ -57,7 +69,7 @@
     "title": "Pas encore annoncé",
     "description": "Une fois les résultats du CFP publics",
     "tags": [
-      "Méthodes & Outils"
+      "Méthodes et Outils"
     ]
   }
 }

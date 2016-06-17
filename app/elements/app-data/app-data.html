@@ -103,7 +103,7 @@
 
         _getSession(sessionId, day) {
           var session = this.sessions[sessionId];
-          session.mainTag = session.tags ? session.tags[0] : 'General';
+          session.mainTag = session.tags ? session.tags[0] : 'Général';
 
           if (day.tags.indexOf(session.mainTag) < 0) {
             day.tags.push(session.mainTag);
