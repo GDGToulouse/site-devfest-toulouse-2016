@@ -80,7 +80,7 @@
     </style>
 
     <div class="container">
-      <h4 class="heading">Rockstar Speakers</h4>
+      <h4 class="heading">Nos têtes d'affiche</h4>
       <div class="people-wrapper">
         <template is="dom-repeat" items="[[featuredPeople]]" as="person">
           <a data-route="speakers/[[person.id]]" href="{$ baseurl $}/speakers/[[person.id]]" class="person">
@@ -91,8 +91,13 @@
         </template>
       </div>
       <div>
+<!--
         <a data-route="speakers" href="{$ baseurl $}/speakers" class="block-link">
-          <paper-button>View all speakers</paper-button>
+          <paper-button>Voir tous les orateurs</paper-button>
+        </a>
+-->
+        <a data-route="speakers" href="https://devfest-toulouse.cfp.io" class="block-link">
+          <paper-button>Candidater</paper-button>
         </a>
       </div>
     </div>
