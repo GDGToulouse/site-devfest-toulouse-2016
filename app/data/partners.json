@@ -1,56 +1,40 @@
 [{
-    "title": "Template creator",
+    "title": "Platinum",
     "logos": [{
         "name": "GDG Lviv",
         "url": "https://plus.google.com/102444623953913144164",
         "logoUrl": "../images/partners/gdg-lviv.svg",
         "width": 170
     }]
-}, {
-    "title": "General partner",
+},{
+    "title": "Or",
     "logos": [{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
+        "name": "GDG Lviv",
+        "url": "https://plus.google.com/102444623953913144164",
+        "logoUrl": "../images/partners/gdg-lviv.svg",
+        "width": 120
+    }]
+},{
+    "title": "Argent",
+    "logos": [{
+        "name": "GDG Lviv",
+        "url": "https://plus.google.com/102444623953913144164",
+        "logoUrl": "../images/partners/gdg-lviv.svg",
+        "width": 100
+    }]
+}, {
+    "title": "Communautés Impliquées",
+    "logos": [{
+        "name": "GDG Taug",
+        "url": "http://www.meetup.com/fr-FR/Toulouse-Android-User-Group/",
+        "logoUrl": "../images/partners/GDG_square_lg.svg"
     },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
+        "name": "Toulouse JUG",
+        "url": "http://www.toulousejug.org/",
+        "logoUrl": "../images/partners/toulouse_jug.png"
     },{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
-    },{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
-    },{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
-    },{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
-    },{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
+        "name": "Toulouse JS",
+        "url": "http://toulousejs.francejs.org/",
+        "logoUrl": "../images/partners/toulousejs.png"
     }]
 }]
