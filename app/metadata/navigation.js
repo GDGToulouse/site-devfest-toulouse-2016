@@ -5,7 +5,7 @@ module.exports = {
     text: 'Accueil',
     heroSettings: {
       backgroundColor: '#00BCD4',
-      backgroundImage: '/images/backgrounds/home.png',
+      backgroundImage: '/images/backgrounds/capitole_panorama.jpg',
       fontColor: '#FFFFFF',
       tabBarColor: '#FFFFFF'
     }
