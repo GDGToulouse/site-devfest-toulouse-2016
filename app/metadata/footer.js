@@ -45,8 +45,8 @@ module.exports = {
       title: 'Nous contacter',
       links: [
         {
-          text: 'devfest-toulouse-team@googlegroups.com',
-          url: 'mailto:devfest-toulouse-team@googlegroups.com'
+          text: 'devfest@toulouseaug.fr',
+          url: 'mailto:devfest@toulouseaug.fr'
         }
       ]
     }

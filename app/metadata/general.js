@@ -13,7 +13,7 @@ module.exports = {
   dates: '3 Novembre 2016',
   location: {
     title: 'IUT Blagnac',
-    description: 'Un bâtiment moderne et spacieux, avec 3 amphis en parfait état et un grand hall pour discuter entre les sessions',
+    description: 'Un bâtiment moderne et spacieux, avec 3 amphithéâtres en parfait état et un grand hall pour discuter entre les sessions',
     short: 'Toulouse, France',
     address: '1 Place Georges Brassens, 31700 Blagnac',
     link: 'http://www.iut-blagnac.fr/',
@@ -50,7 +50,7 @@ module.exports = {
     }
   },
   hashtag: 'DevFestToulouse',
-  email: 'devfest-toulouse-team@googlegroups.com',
+  email: 'devfest@toulouseaug.fr',
   organizer: {
     name: 'DevFestToulouse',
     blog: 'http://www.meetup.com/fr-FR/Toulouse-Android-User-Group/'
