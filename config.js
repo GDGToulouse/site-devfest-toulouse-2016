@@ -44,9 +44,9 @@ module.exports = {
     // For info on tool: https://www.firebase.com/docs/hosting/command-line-tool.html
     firebase: {
       env: {
-        development: 'hoverboard', // subdomain
-        staging:     'hoverboard',
-        production:  'hoverboard'
+        development: 'devfesttoulouse', // subdomain
+        staging:     'devfesttoulouse',
+        production:  'devfesttoulouse'
       }
     },
     // Google App Engine
@@ -105,7 +105,7 @@ module.exports = {
   pageSpeed: {
     key: '', // need uncomment in task
     nokey: true,
-    site: 'https://hoverboard.firebaseapp.com',
+    site: 'https://devfesttoulouse.firebaseapp.com',
     strategy: 'mobile' // or desktop
   },
   // App theme
