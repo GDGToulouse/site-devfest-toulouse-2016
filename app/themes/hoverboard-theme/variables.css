@@ -17,7 +17,7 @@ for further information on custom CSS properties.
 :root {
   /* Primary colors */
   --dark-primary-color: #0097a7;
-  --default-primary-color: #00bcd4;
+  --default-primary-color: #f44336;
   --light-primary-color: #b2ebf2;
   --text-primary-color: #fff; /* text / icons */
 
