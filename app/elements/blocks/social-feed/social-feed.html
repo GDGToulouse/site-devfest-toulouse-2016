@@ -51,7 +51,7 @@
     <div class="container">
       <iron-ajax auto url="[[source]]" handle-as="json" last-response="{{_posts}}"></iron-ajax>
       <div class="social-section">
-        <h4 class="heading">What's up <a href="https://www.google.com/#q=%23{$ hashtag $}">#{$ hashtag $}</a></h4>
+        <h4 class="heading">Quoi de neuf <a href="https://www.google.com/#q=%23{$ hashtag $}">#{$ hashtag $}</a></h4>
         <h5>[[response.response]]</h5>
         <social-post id="post" author="[[author]]" text="[[text]]" when="[[when]]" canonical-url="https://twitter.com/"
                      sign="@"></social-post>
@@ -59,7 +59,7 @@
       <span class="divider"></span>
       <div class="social-section">
         <h4 class="heading">Social</h4>
-        <div>Add to circles, like, follow or connect with us on</div>
+        <div>Pour nous suivre, nous liker, nous ajouter à vos cercles, c'est ici que ça se passe</div>
         <div class="align-pb-block">
           {% for name, item in social %}
           <a class="button-link" href="{$ item.url $}" target="_blank">

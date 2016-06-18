@@ -52,7 +52,7 @@ module.exports = {
   hashtag: 'DevFestToulouse',
   email: 'devfest-toulouse-team@googlegroups.com',
   organizer: {
-    name: 'GDG TAUG',
+    name: 'DevFestToulouse',
     blog: 'http://www.meetup.com/fr-FR/Toulouse-Android-User-Group/'
   }
 };
