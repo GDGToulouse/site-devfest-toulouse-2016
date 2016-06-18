@@ -24,7 +24,7 @@ module.exports = {
     },
     mapCenter: {
       latitude: 43.6489983,
-      longitude: 1.3727472,
+      longitude: 1.3727472
     },
     images: ['/images/backgrounds/location_1.jpg', '/images/backgrounds/location_2.jpg', '/images/backgrounds/location_3.jpg']
   },
@@ -33,26 +33,26 @@ module.exports = {
   social: {
     twitter: {
       nickname: 'GDG Toulouse Android User Group',
-      url: 'https://twitter.com/gdglviv'
+      url: 'https://twitter.com/ToulouseAUG'
     },
     gplus: {
-      nickname: '102444623953913144164',
-      url: 'https://plus.google.com/102444623953913144164'
+      nickname: '117732835400777918591',
+      url: 'https://plus.google.com/117732835400777918591'
     },
     facebook: {
-      nickname: 'GDGLviv',
-      url: 'https://www.facebook.com/GDGLviv'
+      nickname: 'GDG Toulouse Android User Group',
+      url: 'https://www.facebook.com/ToulouseAndroidUserGroup/'
     },
     // Linkedin company
     linkedin: {
-      nickname: 'google-developers-group-lviv',
-      url: 'https://www.linkedin.com/company/google-developers-group-lviv'
+      nickname: 'Toulouse Android User Group',
+      url: 'https://www.linkedin.com/groups/4811043/profile'
     }
   },
-  hashtag: 'dfua',
-  email: 'devfest@gdg.com',
+  hashtag: 'DevFestToulouse',
+  email: 'devfest-toulouse-team@googlegroups.com',
   organizer: {
-    name: 'GDG Lviv',
-    blog: 'http://lviv.gdg.org.ua'
+    name: 'GDG TAUG',
+    blog: 'http://www.meetup.com/fr-FR/Toulouse-Android-User-Group/'
   }
 };
