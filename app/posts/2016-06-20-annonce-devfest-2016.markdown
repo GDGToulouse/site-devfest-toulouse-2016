@@ -1,3 +1,7 @@
+Expliquer qu'on est trop super fiers de nous, on peut prendre exemple sur le post ci-dessous.
+
+
+
 Ukrainian GDGs are proud to announce the fourth annual GDG DevFest 2015 - the largest Google related event in Ukraine.
 Like last year, the event will be held on **23-24 October in Lviv**. Put aside all your business at this time and book tickets to the cultural capital of Ukraine, get a lot of fun and benefit during these days in the company of coders, hackers, geeks and just experts of our industry.
 
