@@ -13,8 +13,8 @@ module.exports = {
     caption: 'Tracks en parallèle'
   }],
   callToAction: {
-    text: 'GDG DevFest 2014',
-    buttonText: 'See how it was',
+    text: 'Nos autres conférences',
+    buttonText: 'Voir plus de photos',
     video: {
       id: 't95z_HLMTmM',
       title: 'GDG DevFest Ukraine 2014 - Highlights'
@@ -31,23 +31,13 @@ module.exports = {
   ticketsBlock: {
     title: 'Billets',
     tickets: [{
-      name: 'Student',
-      price: 400,
-      currency: 'UAH',
-      info: '*Before October 23 or 100 tickets.<br/>Requires valid student ID'
-    }, {
-      name: 'Early Bird',
-      price: 600,
-      currency: 'UAH',
-      info: '*Before September 27 or 150 tickets',
-      soldOut: true
-    }, {
-      name: 'Lazy Bird',
-      price: 800,
-      currency: 'UAH',
-      info: '*Before October 23'
+      name: 'Prix unique',
+      price: 30,
+      currency: 'EUROS',
+      info: 'Tarif standard',
+      soldOut: false
     }],
-    details: 'Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.'
+    details: 'Votre billet vous donne accès à toutes les conférences, aux pauses café, repas et à la soirée. L\'hébergement n\'est PAS inclus dans ce prix.'
   },
   socialFeed: {
     source: '/data/tweets.json'
