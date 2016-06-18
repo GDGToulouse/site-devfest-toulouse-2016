@@ -1,13 +1,13 @@
 module.exports = {
-  title: 'GDG DevFest Toulouse 2016',
+  title: 'DevFest Toulouse 2016',
   description: 'Première édition Toulousaine du DevFest, une conférence technique autour du Web, du Mobile et du métier de développeur ! Venez écouter des experts du domaine.',
   keywords: 'event, gdg, gde, toulouse, devfest, google, programming, android, chrome, polymer, angular, developers, cloud',
   charset: 'utf-8',
   lang: 'en',
   // Add to homescreen for Chrome on Android
-  applicationName: 'GDG DevFest Toulouse 2016',
+  applicationName: 'DevFest Toulouse 2016',
   // Add to homescreen for Safari on iOS
-  appleMobileWebAppTitle: 'GDG DevFest Toulouse 2016',
+  appleMobileWebAppTitle: 'DevFest Toulouse 2016',
 
   // Event details
   dates: '3 Novembre 2016',
