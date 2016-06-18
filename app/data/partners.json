@@ -1,25 +1,25 @@
 [{
     "title": "Platinum",
     "logos": [{
-        "name": "GDG Lviv",
-        "url": "https://plus.google.com/102444623953913144164",
-        "logoUrl": "../images/partners/gdg-lviv.svg",
+        "name": "Google",
+        "url": "https://google.com",
+        "logoUrl": "../images/partners/google.svg",
         "width": 170
     }]
 },{
     "title": "Or",
     "logos": [{
-        "name": "GDG Lviv",
-        "url": "https://plus.google.com/102444623953913144164",
-        "logoUrl": "../images/partners/gdg-lviv.svg",
+        "name": "Google",
+        "url": "https://google.com",
+        "logoUrl": "../images/partners/google.svg",
         "width": 120
     }]
 },{
     "title": "Argent",
     "logos": [{
-        "name": "GDG Lviv",
-        "url": "https://plus.google.com/102444623953913144164",
-        "logoUrl": "../images/partners/gdg-lviv.svg",
+        "name": "Google",
+        "url": "https://google.com",
+        "logoUrl": "../images/partners/google.svg",
         "width": 100
     }]
 }, {
