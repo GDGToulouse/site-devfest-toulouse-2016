@@ -95,6 +95,11 @@
                     margin: 0;
                 }
             }
+
+            paper-button[raised].colorful.white-bg.tickets-block {
+                background: var(--text-primary-color);
+                color: var(--default-primary-color);
+            }
         </style>
 
         <div class="container text-center">
@@ -116,7 +121,7 @@
             </div>
             <span class="details">{$ ticketsBlock.details $}</span>
             <div class="block">
-                <paper-button class="white border-button open-dialog-button" on-tap="openTicketsDialog">Acheter votre place
+                <paper-button raised class="colorful white-bg border-button open-dialog-button" on-tap="openTicketsDialog">Acheter votre place
                 </paper-button>
             </div>
         </div>
