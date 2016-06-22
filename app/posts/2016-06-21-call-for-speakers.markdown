@@ -1,61 +1,61 @@
-Explication du CFP, des tracks etc.
+Le DevFest Toulouse 2016 se tiendra le **jeudi 3 novembre** à l'IUT de Blagnac, à deux pas de Toulouse. Si vous voulez participer à ce bel événement, vous êtes tombés au bon endroit.
 
 
-GDG DevFest Ukraine 2015 will be held on **October 23-24** in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.
+### Orateurs – Quels profils attendons nous ?
 
+* Surtout des développeurs, que vous soyez freelance ou en entreprise
+* Des entreprises qui développent des logiciels
+* Des chercheurs
+* Des gens qui ont envie de parler à des développeurs, tout simplement
 
-### Presenters – who should speak at the DevFest Conference?
+Si vous vous reconnaissez là dedans, on vous encourage vivement à soumettre un talk sur [notre CFP](https://devfest-toulouse.cfp.io). Il se peut que la sélection soit rude mais toutes les propositions seront analysées en détail par notre comité de sélection.
 
-* developers (freelance and hired)
-* companies developing software (apps, tools, frameworks etc.)
-* research institutions with Google relevant activities
-* companies, organisations and individuals using Google technologies
+### Les thèmes et les sujets
 
-If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.<br/>
+Notre équipe a listé quelques uns des sujets que nous aimerions bien voir abordés pendant la conférence, mais ne considérez pas que cette liste soit figée, il s'agit uniquement de pistes. Nous sommes ouverts à tout sujet.
 
+#### Mobile
 
-### Themes and topics – what do we expect?
-
-Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
-
-#### Android
-
-* New features in M (granular permissions, new security model, data binding)
-* Design support library
-* Voice interactions
-* Apps under the hood (profiling battery, memory, cpu usage)
-* Google Cast 
-* Android in the wild, unusual and crazy applications
+* Android N et ses nouveautés
 * Firebase
-* Continuous integration best practices
-  
+* Ionic 2
+* Progressive web apps
+
 
 #### Web
 
-* Angular 2 (reasoning behind technical decisions)
-* Polymer 1.0
-* WebAssembly
-* Firebase
-* Material Design
-* Dart in the real life
+* Angular 2
+* React
+* Cycle JS
+* Programmation réactive
 
 
-#### Cloud
+#### Méthodes et Outils
 
-* NodeJS in the Cloud
-* Google Datastore
-* Managed VM and App Engine sandbox
-* Kubernetes
-* Dart at Cloud
-* Go (as a language for a Cloud Ready Apps)
+* Du Craftsmanship
+* De l'UX
+* Du DevOps
+* Du typage et les langages associés
+* Tout plein de librairies et outils sympas
 
 
-### Please fill the [Call for Papers form](http://bit.ly/dfua-cfp) to submit your proposals.
+### Une sélection en deux phases
 
-**Deadline** is September 1, 2015
+Une première série de sujets sera confirmée tout début septembre. La seconde sera faite pour fin septembre.
+Vous pouvez soumettre autants de sujets que vous le souhaitez, chacun sera évalué séparément.
 
-**Please note:** There is no guarantee that a submission will be put onto the conference agenda!<br/>
 
-The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2015.<br/>
+### Format des conférences
 
-Any questions? Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+Les conférences feront 45 minutes chaque. Nous prévoyons de tester des ateliers de 90 minutes, mais un seul des amphithéâtres est équipé de prises électriques en nombre suffisant. La concurrence risque donc d'être particulièrement rude sur ce format.
+
+
+### Merci de vous rendre sur notre [Call for Papers](https://devfest-toulouse.cfp.io) pour nous soumettre vos sujets.
+
+**Deadline** le 15 août pour la première session de sélection, le 20 septembre 2016 pour la seconde.
+
+**Please note:** Il n'y a malheureusement aucune garantie qu'une proposition de sujet finisse dans le programme.<br/>
+
+Notre comité de sélection aura à charge de choisir les sujets qui lui semblent les plus adaptés et intéressants pour la conférence. Nous vous contacterons au plus tôt une fois qu'on saura si votre présentation est acceptée ou pas.<br/>
+
+N'hésitez surtout pas à nous contacter sur [devfest@toulouseaug.fr](mailto:devfest@toulouseaug.fr) pour tout renseignement.
