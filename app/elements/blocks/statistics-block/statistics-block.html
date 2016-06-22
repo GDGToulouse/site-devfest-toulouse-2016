@@ -32,6 +32,11 @@
         font-size: .85em;
       }
 
+      .heading {
+        width: 100%;
+        text-align: center;
+      }
+
       @media (max-width: 600px) {
         .statistics-element {
           width: 50%;
@@ -51,6 +56,7 @@
     </style>
 
     <div class="container">
+      <h4 class="heading">Le 3 novembre 2016</h4>
       {% for statistic in statistics %}
       <div class="statistics-element">
         <span class="counter">{$ statistic.counter $}</span>
