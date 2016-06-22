@@ -46,7 +46,7 @@ module.exports = {
     // Linkedin company
     linkedin: {
       nickname: 'Toulouse Android User Group',
-      url: 'https://www.linkedin.com/groups/4811043/profile'
+      url: 'https://www.linkedin.com/company/10254434'
     }
   },
   hashtag: 'DevFestToulouse',
