@@ -4,7 +4,7 @@ module.exports = {
     baseurl: '',
     url: 'https://devfesttoulouse.firebaseapp.com/',
     // Google Analytics code
-    trackerCode: 'UA-37717223',
+    trackerCode: 'UA-37717223-3',
     // Google Webmaster Tools verification code
     webtoolsCode: 'YOUR_WEBTOOLS_CODE',
     // Mailchimp subscribe
