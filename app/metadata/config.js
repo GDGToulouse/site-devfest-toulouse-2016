@@ -9,7 +9,7 @@ module.exports = {
     webtoolsCode: 'YOUR_WEBTOOLS_CODE',
     // Mailchimp subscribe
     mailchimp: {
-        url: 'http://eepurl.com/b6Pgvn',
+        url: 'http://devfesttoulouse.us13.list-manage.com/subscribe/post',
         name: 'DevFest Toulouse'
     },
     disqusShortName: 'devfesttoulouse'
