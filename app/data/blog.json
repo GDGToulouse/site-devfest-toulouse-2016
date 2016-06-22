@@ -6,7 +6,7 @@
     "primaryColor": "#607D8B",
     "secondaryColor": "#607D8B",
     "image": "/images/posts/announce.jpg",
-    "brief": "Message descriptif à définir."
+    "brief": "C'est désormais officiel, le DevFest Toulouse est lancé!"
   },
   {
     "id": "call-for-speakers",
@@ -15,7 +15,7 @@
     "primaryColor": "#673AB7",
     "secondaryColor": "#673AB7",
     "image": "/images/posts/speakers.jpg",
-    "brief": "Message descriptif à définir."
+    "brief": "Le CFP est ouvert, venez soumettre vos sujets."
   },
   {
     "id": "que-faire-a-toulouse",
@@ -24,6 +24,6 @@
     "primaryColor": "#3F51B5",
     "secondaryColor": "#3F51B5",
     "image": "/images/posts/lviv.jpg",
-    "brief": "Message descriptif à définir."
+    "brief": "Vous êtes arrivés en avance ou passez le week-end ici, voici une petite sélection de choses à faire."
   }
 ]
