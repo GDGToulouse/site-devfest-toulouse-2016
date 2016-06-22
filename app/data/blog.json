@@ -16,14 +16,5 @@
     "secondaryColor": "#673AB7",
     "image": "/images/posts/speakers.jpg",
     "brief": "Le CFP est ouvert, venez soumettre vos sujets."
-  },
-  {
-    "id": "que-faire-a-toulouse",
-    "title": "A ne pas manquer sur Toulouse",
-    "posted": "2016-06-22",
-    "primaryColor": "#3F51B5",
-    "secondaryColor": "#3F51B5",
-    "image": "/images/posts/lviv.jpg",
-    "brief": "Vous êtes arrivés en avance ou passez le week-end ici, voici une petite sélection de choses à faire."
   }
 ]
