@@ -54,7 +54,7 @@ Les conférences feront 45 minutes chaque. Nous prévoyons de tester des atelier
 
 **Deadline** le 15 août pour la première session de sélection, le 20 septembre 2016 pour la seconde.
 
-**Please note:** Il n'y a malheureusement aucune garantie qu'une proposition de sujet finisse dans le programme.<br/>
+**Attention:** Il n'y a malheureusement aucune garantie qu'une proposition de sujet finisse dans le programme.<br/>
 
 Notre comité de sélection aura à charge de choisir les sujets qui lui semblent les plus adaptés et intéressants pour la conférence. Nous vous contacterons au plus tôt une fois qu'on saura si votre présentation est acceptée ou pas.<br/>
 
