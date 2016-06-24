@@ -1,5 +1,46 @@
 Plein de bons plans sur Toulouse...
 
+Toulouse, 4ème ville de France, est une ville au charme incomparable connaissant une forte croissance économique ces dernières années.
+
+Ce n'est pas pour rien qu'elle est la ville française préférée des étudiants et des cadres. Avec son centre historique et ses entreprises leaders dans l'innovation, Toulouse est à la croisée entre tradition et technologie.
+
+# Place du capitole
+**Où** hypercentre : toutes les rues y mènent!
+**Quand** de jour comme de nuit
+**Combien** Gratuit
+
+# Saint Sernin
+**Où** hypercentre : toutes les rues y mènent!
+**Quand** de jour comme de nuit
+**Combien** Gratuit
+
+# Flâner à la Prairie des filtres
+**Où** hypercentre : toutes les rues y mènent!
+**Quand** de jour comme de nuit
+**Combien** Gratuit
+
+# Faire la fête à la Place St Pierre
+**Où** hypercentre : toutes les rues y mènent!
+**Quand** de jour comme de nuit
+**Combien** Gratuit
+
+# S'envoler à la Cité de l'Espace
+**Où**
+**Quand**
+**Combien**
+
+# Chanter avec Claude Nougaro
+**Où** Place XXX, proche du capitole
+**Quand** de jour comme de nuit
+**Combien** Gratuit
+
+# Prendre de la hauteur à Pech David
+**Où** Colline de Pech David, au sud de la ville
+**Quand** de jour comme de nuit
+**Combien** Gratuit
+
+
+Et bien évidemment tous ses restaurants qui sentent bon le terroir, ses bars qui transpirent le rugby et ses startups connectées qui se rêvent en licorne. L'énergie toulousaine est incomparable. Rejoignez-nous, nous saurons vous accueillir.
 
 Ukrainian city of Lviv is no doubt one of the most charming and yet not well-known parts of Ukraine. It’s been recently gaining plenty of attention from the world, and was proudly featured on [BBC](https://www.youtube.com/watch?v=PkK93bCIofk&list=FLSdbB5_2f0i17sH1Bo-WR9A&index=1&feature=plpp_video) and [EuroNews](https://www.youtube.com/watch?v=PkK93bCIofk&list=FLSdbB5_2f0i17sH1Bo-WR9A&index=1&feature=plpp_video). City’s impressive architecture, absense of large tourist crowds and unique combination of rustiness and timelessness bring out a very special charm, capturing the hearts of everyone who’s ever visited it.
 For the perfect vacation in Lviv, check out our extensive compiled selection of top things to do in Lviv!
@@ -79,18 +120,3 @@ Unquestionably, the biggest attraction for any male traveler in Lviv! Museum boa
 
 These and a lot of others impressive things you can do and see in Lviv!!!
 Try most of them! I bet you will be thrilled!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
