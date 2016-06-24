@@ -1,4 +1,4 @@
-Plein de bons plans sur Toulouse...
+Plein de bons plans sur Toulouse... En attendant qu'on fasse développer les photos, on vous invite à découvrir la belle ville de Lviv.
 
 
 Ukrainian city of Lviv is no doubt one of the most charming and yet not well-known parts of Ukraine. It’s been recently gaining plenty of attention from the world, and was proudly featured on [BBC](https://www.youtube.com/watch?v=PkK93bCIofk&list=FLSdbB5_2f0i17sH1Bo-WR9A&index=1&feature=plpp_video) and [EuroNews](https://www.youtube.com/watch?v=PkK93bCIofk&list=FLSdbB5_2f0i17sH1Bo-WR9A&index=1&feature=plpp_video). City’s impressive architecture, absense of large tourist crowds and unique combination of rustiness and timelessness bring out a very special charm, capturing the hearts of everyone who’s ever visited it.
