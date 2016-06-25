@@ -30,7 +30,7 @@ Le parc est connu des Toulousains pour y accueillir un club de ski nautique situ
 **Combien** Gratuit
 
 # Faire la fête à la Place St Pierre
-[Place St Pierre](http://static.ladepeche.fr/content/media/image/large/2015/09/18/201509180278-full.jpg)
+![Place St Pierre](http://static.ladepeche.fr/content/media/image/large/2015/09/18/201509180278-full.jpg)
 Pour continuer la fête jusqu'au bout de la nuit, voire jusqu'au petit matin, c'est à la Place St Pierre qu'il faudra aller. C'est une des places les plus prisées par les étudiants les jeudis et samedis soirs.
 **Où** Place St Pierre
 **Quand** de préférence la nuit
@@ -38,7 +38,7 @@ Pour continuer la fête jusqu'au bout de la nuit, voire jusqu'au petit matin, c'
 
 
 # Longer le Canal du midi
-[Canal du midi](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_du_Midi_aug_2011.jpg/375px-Canal_du_Midi_aug_2011.jpg)
+![Canal du midi](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_du_Midi_aug_2011.jpg/375px-Canal_du_Midi_aug_2011.jpg)
 Le canal du Midi est un canal français qui relie la Garonne à la mer Méditerranée. Il est considéré par ses contemporains comme le plus grand chantier du XVIIe siècle.
 
 
@@ -53,7 +53,7 @@ Vous pourrez vous balader le long de ses rives, et profiter de l'ombre et du cal
 
 
 # S'envoler à la Cité de l'Espace
-[Cité de l'espace](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ariane_5_%28mock-up%29.jpg/800px-Ariane_5_%28mock-up%29.jpg)
+![Cité de l'espace](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ariane_5_%28mock-up%29.jpg/800px-Ariane_5_%28mock-up%29.jpg)
 La Cité de l'espace est un parc à thème scientifique orienté vers l'espace et la conquête spatiale, consacré autant à l'astronomie qu'à l'astronautique.
 
 Le parc permet de découvrir la réplique grandeur nature de la fusée Ariane 5 (53 mètres de haut), du vaisseau Soyouz et du satellite d'observation de la terre ERS2. On peut aussi visiter un modèle d'ingénierie de la station spatiale Mir avec tous ses équipements.
@@ -67,14 +67,14 @@ La visite plaire aux plus jeunes comme aux plus grands.
 **Combien** à partir de 21€
 
 # Chanter avec Claude Nougaro
-[Claude Nougaro](http://www.photorendu.com/images/photo-toulouse-9.jpg)
+![Claude Nougaro](http://www.photorendu.com/images/photo-toulouse-9.jpg)
  Auteur-compositeur-interprète français, Claude Nougaro était un grand amateur de jazz, de musique latine et africaine, jouant des mots avec la langue française. Il s'est appliqué tout au long de sa carrière, dans un insolite mariage des genres, à unir chansons françaises et rythmes.
 **Où** Square Charles de Gaulle, proche du capitole
 **Quand** de jour comme de nuit
 **Combien** Gratuit
 
 # Prendre de la hauteur à Pech David
-[Pech David](http://cdn.toulouse-tourisme.com/medias//photos/original/LOIMID031FS00059_1_Pech-david.jpg)
+![Pech David](http://cdn.toulouse-tourisme.com/medias//photos/original/LOIMID031FS00059_1_Pech-david.jpg)
 Pech-David est une colline située tout au sud de la ville et composée d'un grand parc de 280 ha, culminant à 130 mètres au-dessus de la Garonne et qui domine l'ensemble de la ville rose.
 
 Pech-David présente une vue sur l'agglomération toulousaine et sur la chaîne des Pyrénées.
