@@ -1,96 +1,109 @@
-Plein de bons plans sur Toulouse...
+Toulouse, 4ème ville de France, est une ville au charme incomparable connaissant une forte croissance économique ces dernières années.
+
+Ce n'est pas pour rien qu'elle est la ville française préférée des étudiants et des cadres. Avec son centre historique et ses entreprises leaders dans l'innovation, la ville rose est à la croisée entre tradition et nouvelles technologies.
 
 
-Ukrainian city of Lviv is no doubt one of the most charming and yet not well-known parts of Ukraine. It’s been recently gaining plenty of attention from the world, and was proudly featured on [BBC](https://www.youtube.com/watch?v=PkK93bCIofk&list=FLSdbB5_2f0i17sH1Bo-WR9A&index=1&feature=plpp_video) and [EuroNews](https://www.youtube.com/watch?v=PkK93bCIofk&list=FLSdbB5_2f0i17sH1Bo-WR9A&index=1&feature=plpp_video). City’s impressive architecture, absense of large tourist crowds and unique combination of rustiness and timelessness bring out a very special charm, capturing the hearts of everyone who’s ever visited it.
-For the perfect vacation in Lviv, check out our extensive compiled selection of top things to do in Lviv!
+# Place du capitole
+![Place du Capitole](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Toulouse_Capitole_Night_Wikimedia_Commons.jpg/640px-Toulouse_Capitole_Night_Wikimedia_Commons.jpg)
 
-# **Walk around Rynok Square**
-<img src="/images/posts/lviv1.jpg" style="width: 100%;"/>
+Au coeur de la ville, partez à la découverte de Toulouse en partant de la majestueuse place du Capitole. La place du Capitole est située en plein centre-ville de Toulouse face au Capitole du même nom. Elle ne contient aucune construction si ce n'est qu'est présente au sol la croix occitane. Le centre est exclusivement réservé aux piétons, à des manifestations ou aux marchés quotidiens. La place est accessible en métro via la station Capitole.
+**Où** hypercentre : toutes les rues y mènent!
+**Quand** de jour comme de nuit
+**Combien** Gratuit
 
-UNESCO-listed Rynok Square is one of the top attractions in the city!
-Your first stop in Lviv will inevitably lead you to the heart of the city – Rynok Square, that can be translated as Market Square. For the past 500 years it has been the bustling center of city life and till now retains all the charm of the old European city, without the pretentions of its more famous neighbors – Prague and Krakow.
-**Where to find:** in the very city center, hard to miss!
-**When to visit:** any time
-**How much to pay:** for FREE
 
-# **Climb City Town Hall**
-<img src="/images/posts/lviv2.jpg" style="width: 100%;"/>
+# Saint Sernin
+![St Sernin](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Basilique_Saint-Sernin_-_Toulouse.jpg/1280px-Basilique_Saint-Sernin_-_Toulouse.jpg)
 
-How about spending 15 min counting up all the steps in Lviv Town Hall? Getting to its top is one of the most fun things to do in Lviv! We won’t break the secret to you, but will hint that the staircase has more than 300, but less than 500 steps. As they wind up to the tiny round tube at the top of the tower, the counting is even more interesting!
-**Where to find:** right in the middle of the Market Square (hard to miss!)
-**When to visit:** Tuesday – Friday from 10 am till 5 pm, Saturday – Sunday from 11 am till 7 pm. It is closed on Mondays.
-**How much to pay:** 5 UAH, which is 0.5 EURO
+La basilique Saint-Sernin de Toulouse est un sanctuaire bâti pour abriter les reliques de saint Saturnin, premier évêque de Toulouse, martyrisé en 250. Saint-Sernin est la plus grande église romane conservée en Europe.
 
-# **Take a photo with Neptun**
-<img src="/images/posts/lviv3.jpg" style="width: 100%;"/>
+La rue du Taur qui mène de la place du Capitole à la basilique tire d'ailleurs son nom des circonstances du martyre. Saint Saturnin, alors à la tête de la communauté chrétienne de Toulouse, est pris à partie par les prêtres païens dans le forum au pied du Capitolium antique (actuelle place Esquirol). Selon la légende, il est sommé de se prosterner devant les statues païennes. Refusant de se prosterner, il est attaché par les pieds à un taureau de sacrifice, sans aucune forme de procès. Devant les cris de la foule, le taureau furieux prend la fuite le long du cardo, franchit la porte Nord puis la corde rompt et le corps inerte reste sur ce qui était alors une route sortant de la ville. Deux jeunes filles, les saintes Puelles, l'enterrent sur place.
 
-Even though Lviv Rynok Square has a total of four fountains at each side – Diana, Neptune, Adonise and Amphitrite, local Lviv residents give their special love to Neptune. ‘Where shall we meet?’ – ‘At Neptune!’ is a typical phrase in conversations of Lviv university students.
-**Where to find:** at the Rynok Square, hard to miss!
-**When to visit:** anytime of the year
-**How much to pay:** for FREE
+La basilique Saint-Sernin est inscrite au patrimoine mondial de l'UNESCO au titre des chemins de Saint-Jacques-de-Compostelle en France depuis 1998.
+**Où** En partant de la place du Capitole, prendre la rue du Taur
+**Quand** 8h30 - 19h30
+**Combien** Gratuit
 
-# **Choose your favorite coffee in Svit Kavy**
-<img src="/images/posts/lviv4.jpg" style="width: 100%;"/>
 
-If you are looking for locals’ all-favorite place to sit around and watch the life pass by, go straight to the charming little coffee shop right opposite to the Boim’s Chapel and Latin Cathedral. Svit Kavy or the World of Coffee is famous for its beautiful interior, lovely summer terrace and, of course, more than 30 varieties of coffee to taste! Deliciously brewed, it will take you to the core of what Lviv is all about.
-**Where to find:** Katedral’na Sq. 6, between Amadeus Restaurant and Cafe1.  Svit Kavy also has a souvenir-shop that sells coffee-themed souvenirs and coffee beans; look for it to the left of the café’s main entrance
-**When to visit:** Mon – Fri: 8 a.m. to 8 p.m.; Sat, Sun: 9 a.m. – 11 p.m. The best time is the end of September during traditional Coffee Festival
-**How much to pay:** starting from 3 EURO and up
+# Flâner à la Prairie des filtres
+![](https://upload.wikimedia.org/wikipedia/commons/4/4d/Toulouse_pairie_des_filtres.jpg)
 
-# **Buy handmade chocolate at the Lviv Chocolate Workshop**
-<img src="/images/posts/lviv5.jpg" style="width: 100%;"/>
+Le parc est connu des Toulousains pour y accueillir un club de ski nautique situé à côté du Pont Neuf sur une péniche en béton. Le parc comprend un parking (parking cours Dillon), un boulodrome et un grand jardin. Cet espace vert est le point de rencontres de nombreux groupes d'étudiants mais aussi un lieu de détente familial. Le parc comprend en effet une base de jeux destinées aux plus jeunes. Il est aussi le point de début de promenades le long des berges de la Garonne. Enfin le boulodrome attire régulièrement de nombreux habitants du quartier de Saint-Cyprien.
+**Où** à côté du Pont Neuf, du côté de St Cyprien
+**Quand** de jour comme de nuit
+**Combien** Gratuit
 
-No one has the heart to pass by this tiny shop and its large glass window, stocked with rows of delicious tempting chocolate.  Right off the Rynok square, it’s a must visit place for anyone with sweet tooth. Or – what the heck – simply anyone! While first floor hosts a lovely cafe, the biggest attraction of the place – the chocolate shop – is up the narrow winding stairs. The shop features plenty of chocolate souvenirs – truffles, bars and figures of famous buildings. All the chocolate is handmade, straight from the factory, and packaged in beautiful wrapping. One perfect souvenir from Lviv!
-**Where to find:** Serbska st., 3
-**When to visit:** Anytime of the year, 9 a.m. – 23.00. However, best time for chocolate tasting is during city’s Chocolate Festival (first week of February)
-**How much to pay:** 5-10 EURO at a coffee shop, 10-15 EURO at the gift shop (credit cards are accepted only at the gift shop)
+# Faire la fête à la Place St Pierre
+![Place St Pierre](http://static.ladepeche.fr/content/media/image/large/2015/09/18/201509180278-full.jpg)
 
-# **Enjoy performances at Lviv Opera Theater**
-<img src="/images/posts/lviv6.jpg" style="width: 100%;"/>
+Pour continuer la fête jusqu'au bout de la nuit, voire jusqu'au petit matin, c'est à la Place St Pierre qu'il faudra aller. C'est une des places les plus prisées par les étudiants les jeudis et samedis soirs.
+**Où** Place St Pierre
+**Quand** de préférence la nuit
+**Combien** Gratuit
 
-Much can be written about this most famous Lviv landmark. Known as the Grand Theater originally, it is now formally called The Lviv National Academic Theater of Opera and Ballet of Solomiya Krushelnyts’ka, in honor of Ukraine’s most well-known female opera singer. The Lviv Opera House was built in 1900 using forms of Renaissance and Baroque architecture. The result is one of the most beautiful opera houses in Europe with a luxurious interior, including the Mirror Hall and Parnassus Curtain and a stunning facade with ornate sculpture work.
-**Where to find:** Svobody ave., 28
-**When to visit:** 11 am – 7 pm, tours are available starting from 5 pm. Alternatively, you can buy an entrance ticket and tour around the theater on your own.
-**How much to pay:** performance tickets cost from 0.5 EURO to 20 EURO, self-guided tour ticket is 1 EURO.
 
-# **Take bird view photos of Lviv from the High Castle hill**
-<img src="/images/posts/lviv7.jpg" style="width: 100%;"/>
+# Longer le Canal du midi
+![Canal du midi](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_du_Midi_aug_2011.jpg/375px-Canal_du_Midi_aug_2011.jpg)
 
-Lviv High Castle can be both a major disappointment and biggest surprise to you! Why disappointment? Because despite its promising name, the place is not that high (unless 413 m is impressive for you) and has no castle whatsoever. Why surprise? Because it offers a quiet refuge from the busy city streets, and it has indubitably the best aerial views of the city! The hill, also known as Vysoky Zamok, used to be a wooden fortress, built in the 13th century by King Lev.
-**Where to find:** High Castle (Vysokyi Zamok) is located just outside Lviv’s center inside Vysokyi Zamok Park. There are no direct transport links to the park, so wear good shoes and  enjoy the 15-20-minute walk from the center.  Just follow the small brown signs.
-**When to visit:** sunny weather is the best for great bird view of the city
-**How much to pay:** for FREE
+Le canal du Midi est un canal français qui relie la Garonne à la mer Méditerranée. Il est considéré par ses contemporains comme le plus grand chantier du XVIIe siècle.
 
-# **Explore Lviv underground labyrinths**
-<img src="/images/posts/lviv8.jpg" style="width: 100%;"/>
 
-Would you like to check out the 18th century sarcophagus made from a solid stone? Its cover weighs over 600 kg. The object itself is taken apart, but the nature of wreckage indicates that sarcophagus was broken not from the outside, but …from the inside! Eerie, isn’t it? To hear the full Black Monk legend, head to the catacombs of St. Peter and Paul Cathedral of Jesuit Order.
-**Where to find:** [Contact](www.activeukraine.com/contact-us/) to arrange for an underground tour of Lviv
-**When to visit:** any time in the day
-**How much to pay:** depending on your group size
+Le canal du Midi est l'un des plus anciens canaux d'Europe encore en fonctionnement. La mise en œuvre de cet ouvrage est étroitement liée à la question du transport fluvial aux temps modernes. Le défi, relevé par Pierre-Paul Riquet, était d'acheminer l'eau de la montagne Noire jusqu'au seuil de Naurouze, le point le plus élevé du parcours.
 
-# **Explore the weaponry collection at Lviv History Museum ‘Arsenal’**
-<img src="/images/posts/lviv9.jpg" style="width: 100%;"/>
-
-Unquestionably, the biggest attraction for any male traveler in Lviv! Museum boasts thousands of weaponry items from more than 30 countries and as old as 10th century. Knives, daggers, swords, sabers, épées, yatagans, axes, halberds, maces, czekans, pernaches, and many other strange names of cold, fire and defensive weapons that will keep your interest throughout all the exhibit. The collection’s highlight is Eastern type sword from the 17th century with double blade, the so-called “Zulfakar”.
-**Where to find:** Pidvalna st., 5 – close to the town center
-**When to visit:** daily 10:00 – 17:30, except Wednesdays
-**How much to pay:** less than 1 EURO, extra fee is charged for photo and video footage
-
-These and a lot of others impressive things you can do and see in Lviv!!!
-Try most of them! I bet you will be thrilled!
+Depuis 1996, il est inscrit sur la liste du patrimoine mondial de l'UNESCO.
+Vous pourrez vous balader le long de ses rives, et profiter de l'ombre et du calme qu'elles procurent. Les plus sportifs adoreront faire un footing à ses côtés.
+**Où** le canal traverse la ville du nord au sud
+**Quand** de jour comme de nuit
+**Combien** Gratuit
 
 
 
+# S'envoler à la Cité de l'Espace
+![Cité de l'espace](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ariane_5_%28mock-up%29.jpg/800px-Ariane_5_%28mock-up%29.jpg)
+
+La Cité de l'espace est un parc à thème scientifique orienté vers l'espace et la conquête spatiale, consacré autant à l'astronomie qu'à l'astronautique.
+
+Le parc permet de découvrir la réplique grandeur nature de la fusée Ariane 5 (53 mètres de haut), du vaisseau Soyouz et du satellite d'observation de la terre ERS2. On peut aussi visiter un modèle d'ingénierie de la station spatiale Mir avec tous ses équipements.
+
+La Cité de l'espace est également dotée de nombreuses expositions, souvent interactives : ainsi la salle de contrôle permet de préparer le lancement d'une fusée, d'assister à son décollage, à son vol puis à la mise en orbite d'un satellite.
+
+La visite plaire aux plus jeunes comme aux plus grands.
+.
+**Où** sur le périphérique, sortie 17 (Est de Toulouse)
+**Quand** du mardi au dimanche (10h-18h)
+**Combien** à partir de 21€
+
+# Chanter avec Claude Nougaro
+![Claude Nougaro](http://www.photorendu.com/images/photo-toulouse-9.jpg)
+
+ Auteur-compositeur-interprète français, Claude Nougaro était un grand amateur de jazz, de musique latine et africaine, jouant des mots avec la langue française. Il s'est appliqué tout au long de sa carrière, dans un insolite mariage des genres, à unir chansons françaises et rythmes.
+**Où** Square Charles de Gaulle, proche du capitole
+**Quand** de jour comme de nuit
+**Combien** Gratuit
+
+# Prendre de la hauteur à Pech David
+![Pech David](http://cdn.toulouse-tourisme.com/medias//photos/original/LOIMID031FS00059_1_Pech-david.jpg)
+
+Pech-David est une colline située tout au sud de la ville et composée d'un grand parc de 280 ha, culminant à 130 mètres au-dessus de la Garonne et qui domine l'ensemble de la ville rose.
+
+Pech-David présente une vue sur l'agglomération toulousaine et sur la chaîne des Pyrénées.
+
+Le lieu est régulièrement survolé par les avions atterrissant à l'Aéroport Toulouse Blagnac.
+**Où** Colline de Pech David, au sud de la ville
+**Quand** de jour comme de nuit
+**Combien** Gratuit
 
 
 
+Et bien évidemment, vous trouverez à Toulouse tous ses restaurants qui sentent bon le terroir, ses bars qui transpirent le rugby et ses startups connectées qui se rêvent en licorne. L'énergie toulousaine est incomparable. Rejoignez-nous, nous saurons vous accueillir.
 
 
-
-
-
-
-
-
-
+#### sources
+- https://fr.wikipedia.org/wiki/Place_du_Capitole_(Toulouse)
+- https://fr.wikipedia.org/wiki/Basilique_Saint-Sernin_de_Toulouse
+- https://fr.wikipedia.org/wiki/Cit%C3%A9_de_l%27espace
+- https://fr.wikipedia.org/wiki/Claude_Nougaro
+- https://fr.wikipedia.org/wiki/Canal_du_Midi
+- https://fr.wikipedia.org/wiki/Pech-David
+- https://fr.wikipedia.org/wiki/Parc_de_la_prairie_des_Filtres
+- https://fr.wikipedia.org/wiki/Place_Saint-Pierre_(Toulouse)
