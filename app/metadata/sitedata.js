@@ -42,5 +42,5 @@ module.exports = {
   socialFeed: {
     source: '/data/tweets.json'
   },
-  partnershipProposition: '/assets/GDG_DevFest_Ukraine_2015_Partnership_Proposition.pdf'
+  partnershipProposition: '/assets/DossierSponsoringPartenariat-DevFestToulouse.pdf'
 };

@@ -29,12 +29,22 @@
         "url": "http://www.meetup.com/fr-FR/Toulouse-Android-User-Group/",
         "logoUrl": "../images/partners/GDG_square_lg.svg"
     },{
-        "name": "Toulouse JUG",
-        "url": "http://www.toulousejug.org/",
-        "logoUrl": "../images/partners/toulouse_jug.png"
+        "name": "Toulouse Data Science",
+        "url": "http://www.meetup.com/fr-FR/Tlse-Data-Science/",
+        "logoUrl": "../images/partners/tds.jpeg"
     },{
         "name": "Toulouse JS",
         "url": "http://toulousejs.francejs.org/",
         "logoUrl": "../images/partners/toulousejs.png"
+    },
+    {
+        "name": "Angular Toulouse",
+        "url": "http://www.meetup.com/fr-FR/angulartoulouse/",
+        "logoUrl": "../images/partners/angular.png"
+    },
+    {
+        "name": "Toulouse JUG",
+        "url": "http://www.toulousejug.org/",
+        "logoUrl": "../images/partners/toulouse_jug.png"
     }]
 }]
