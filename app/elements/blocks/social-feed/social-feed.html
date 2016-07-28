@@ -52,9 +52,8 @@
       <iron-ajax auto url="[[source]]" handle-as="json" last-response="{{_posts}}"></iron-ajax>
       <div class="social-section">
         <h4 class="heading">Quoi de neuf <a href="https://www.google.com/#q=%23{$ hashtag $}">#{$ hashtag $}</a></h4>
-        <h5>[[response.response]]</h5>
-        <social-post id="post" author="[[author]]" text="[[text]]" when="[[when]]" canonical-url="https://twitter.com/"
-                     sign="@"></social-post>
+        <a data-chrome="noheader nofooter noborders noscrollbar transparent" class="twitter-timeline"  href="https://twitter.com/hashtag/devfesttoulouse" data-widget-id="755727211022475264">Tweets sur #devfesttoulouse</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>         
       </div>
       <span class="divider"></span>
       <div class="social-section">
