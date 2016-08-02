@@ -46,5 +46,10 @@
         "name": "Toulouse JUG",
         "url": "http://www.toulousejug.org/",
         "logoUrl": "../images/partners/toulouse_jug.png"
+    },
+    {
+        "name": "Toulouse DevOps",
+        "url": "http://toulousedevops.org/",
+        "logoUrl": "../images/partners/toulouse_devops.png"
     }]
 }]
