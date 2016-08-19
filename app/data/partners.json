@@ -23,6 +23,14 @@
         "width": 100
     }]
 }, {
+    "title": "Médias",
+    "logos": [{
+        "name": "Programmez!",
+        "url": "http://www.programmez.com/",
+        "logoUrl": "../images/partners/google.svg",
+        "width": 100
+    }]
+}, {
     "title": "Communautés Impliquées",
     "logos": [{
         "name": "GDG Taug",
