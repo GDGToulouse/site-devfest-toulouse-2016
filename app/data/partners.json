@@ -17,9 +17,9 @@
 },{
     "title": "Argent",
     "logos": [{
-        "name": "Google",
-        "url": "https://google.com",
-        "logoUrl": "../images/partners/google.svg",
+        "name": "DocDoku",
+        "url": "http://www.docdoku.com/",
+        "logoUrl": "../images/partners/docdoku.png",
         "width": 100
     }]
 }, {
