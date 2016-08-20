@@ -30,7 +30,7 @@ module.exports = {
         links: [
           {
             text: 'Proposition de partenariat',
-            url: '/assets/DossierSponsoringPartenariat-DevFestToulouse.pdf',
+            url: 'https://docs.google.com/document/d/1-mfAewuqxiNqPyb6_lAROZAmns8n7JIh79eZXynSV_I/pub',
             newTab: true
           },
           {
