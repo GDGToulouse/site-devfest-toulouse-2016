@@ -7,8 +7,11 @@ Ce n'est pas pour rien qu'elle est la ville française préférée des étudiant
 ![Place du Capitole](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Toulouse_Capitole_Night_Wikimedia_Commons.jpg/640px-Toulouse_Capitole_Night_Wikimedia_Commons.jpg)
 
 Au coeur de la ville, partez à la découverte de Toulouse en partant de la majestueuse place du Capitole. La place du Capitole est située en plein centre-ville de Toulouse face au Capitole du même nom. Elle ne contient aucune construction si ce n'est qu'est présente au sol la croix occitane. Le centre est exclusivement réservé aux piétons, à des manifestations ou aux marchés quotidiens. La place est accessible en métro via la station Capitole.
+
 **Où** hypercentre : toutes les rues y mènent!
+
 **Quand** de jour comme de nuit
+
 **Combien** Gratuit
 
 
@@ -20,8 +23,11 @@ La basilique Saint-Sernin de Toulouse est un sanctuaire bâti pour abriter les r
 La rue du Taur qui mène de la place du Capitole à la basilique tire d'ailleurs son nom des circonstances du martyre. Saint Saturnin, alors à la tête de la communauté chrétienne de Toulouse, est pris à partie par les prêtres païens dans le forum au pied du Capitolium antique (actuelle place Esquirol). Selon la légende, il est sommé de se prosterner devant les statues païennes. Refusant de se prosterner, il est attaché par les pieds à un taureau de sacrifice, sans aucune forme de procès. Devant les cris de la foule, le taureau furieux prend la fuite le long du cardo, franchit la porte Nord puis la corde rompt et le corps inerte reste sur ce qui était alors une route sortant de la ville. Deux jeunes filles, les saintes Puelles, l'enterrent sur place.
 
 La basilique Saint-Sernin est inscrite au patrimoine mondial de l'UNESCO au titre des chemins de Saint-Jacques-de-Compostelle en France depuis 1998.
+
 **Où** En partant de la place du Capitole, prendre la rue du Taur
+
 **Quand** 8h30 - 19h30
+
 **Combien** Gratuit
 
 
@@ -29,16 +35,22 @@ La basilique Saint-Sernin est inscrite au patrimoine mondial de l'UNESCO au titr
 ![](https://upload.wikimedia.org/wikipedia/commons/4/4d/Toulouse_pairie_des_filtres.jpg)
 
 Le parc est connu des Toulousains pour y accueillir un club de ski nautique situé à côté du Pont Neuf sur une péniche en béton. Le parc comprend un parking (parking cours Dillon), un boulodrome et un grand jardin. Cet espace vert est le point de rencontres de nombreux groupes d'étudiants mais aussi un lieu de détente familial. Le parc comprend en effet une base de jeux destinées aux plus jeunes. Il est aussi le point de début de promenades le long des berges de la Garonne. Enfin le boulodrome attire régulièrement de nombreux habitants du quartier de Saint-Cyprien.
+
 **Où** à côté du Pont Neuf, du côté de St Cyprien
+
 **Quand** de jour comme de nuit
+
 **Combien** Gratuit
 
 # Faire la fête à la Place St Pierre
 ![Place St Pierre](http://static.ladepeche.fr/content/media/image/large/2015/09/18/201509180278-full.jpg)
 
 Pour continuer la fête jusqu'au bout de la nuit, voire jusqu'au petit matin, c'est à la Place St Pierre qu'il faudra aller. C'est une des places les plus prisées par les étudiants les jeudis et samedis soirs.
+
 **Où** Place St Pierre
+
 **Quand** de préférence la nuit
+
 **Combien** Gratuit
 
 
@@ -52,8 +64,11 @@ Le canal du Midi est l'un des plus anciens canaux d'Europe encore en fonctionnem
 
 Depuis 1996, il est inscrit sur la liste du patrimoine mondial de l'UNESCO.
 Vous pourrez vous balader le long de ses rives, et profiter de l'ombre et du calme qu'elles procurent. Les plus sportifs adoreront faire un footing à ses côtés.
+
 **Où** le canal traverse la ville du nord au sud
+
 **Quand** de jour comme de nuit
+
 **Combien** Gratuit
 
 
@@ -68,17 +83,23 @@ Le parc permet de découvrir la réplique grandeur nature de la fusée Ariane 5 
 La Cité de l'espace est également dotée de nombreuses expositions, souvent interactives : ainsi la salle de contrôle permet de préparer le lancement d'une fusée, d'assister à son décollage, à son vol puis à la mise en orbite d'un satellite.
 
 La visite plaire aux plus jeunes comme aux plus grands.
-.
+
 **Où** sur le périphérique, sortie 17 (Est de Toulouse)
+
 **Quand** du mardi au dimanche (10h-18h)
+
 **Combien** à partir de 21€
+
 
 # Chanter avec Claude Nougaro
 ![Claude Nougaro](http://www.photorendu.com/images/photo-toulouse-9.jpg)
 
  Auteur-compositeur-interprète français, Claude Nougaro était un grand amateur de jazz, de musique latine et africaine, jouant des mots avec la langue française. Il s'est appliqué tout au long de sa carrière, dans un insolite mariage des genres, à unir chansons françaises et rythmes.
+
 **Où** Square Charles de Gaulle, proche du capitole
+
 **Quand** de jour comme de nuit
+
 **Combien** Gratuit
 
 # Prendre de la hauteur à Pech David
@@ -89,8 +110,11 @@ Pech-David est une colline située tout au sud de la ville et composée d'un gra
 Pech-David présente une vue sur l'agglomération toulousaine et sur la chaîne des Pyrénées.
 
 Le lieu est régulièrement survolé par les avions atterrissant à l'Aéroport Toulouse Blagnac.
+
 **Où** Colline de Pech David, au sud de la ville
+
 **Quand** de jour comme de nuit
+
 **Combien** Gratuit
 
 

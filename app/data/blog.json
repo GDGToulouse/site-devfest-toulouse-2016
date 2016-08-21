@@ -16,5 +16,14 @@
     "secondaryColor": "#673AB7",
     "image": "/images/posts/speakers.jpg",
     "brief": "Le CFP est ouvert, venez soumettre vos sujets."
+  },
+  {
+    "id": "que-faire-a-toulouse",
+    "title": "Que faire à Toulouse ?",
+    "posted": "2016-08-21",
+    "primaryColor": "#0097a7",
+    "secondaryColor": "#b2ebf2",
+    "image": "/images/posts/capitole.jpg",
+    "brief": "Si vous voulez des idées de sorties pendant que vous êtes par chez nous."
   }
 ]
