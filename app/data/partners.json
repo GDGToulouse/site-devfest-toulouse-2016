@@ -59,5 +59,15 @@
         "name": "Toulouse DevOps",
         "url": "http://toulousedevops.org/",
         "logoUrl": "../images/partners/toulouse_devops.png"
+    },
+    {
+        "name": "Duchess France",
+        "url": "http://www.duchess-france.org/",
+        "logoUrl": "../images/partners/logoDuchessFrance.svg"
+    },
+    {
+        "name": "Graph Database Toulouse",
+        "url": "http://www.meetup.com/fr-FR/graphdb-toulouse/",
+        "logoUrl": "../images/partners/graphdb.jpeg"        
     }]
 }]
