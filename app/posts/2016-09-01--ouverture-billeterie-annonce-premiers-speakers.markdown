@@ -10,7 +10,7 @@ Pour cette première édition, nous limitons l'événement à 250 personnes.
 Nous sommes heureux de pouvoir vous annoncer en avant première les 7 premiers speakers du DevFest Toulouse :
 
 
-* **Gilles Debunnes**, de Angular à React (ou pas)
+* **Gilles Debunne**, de Angular à React (ou pas)
 * **Elisabel Généreux**, Android et programmation Réactive
 * **Didier Girard**, Cloud Analytics, de 0 à 100 000 events par secondes en 50'
 * **Martin Gorner**, Tensorflow et l’apprentissage profond, sans les équations différentielles
