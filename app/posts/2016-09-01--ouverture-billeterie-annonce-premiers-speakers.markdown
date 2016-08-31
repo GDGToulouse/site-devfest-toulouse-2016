@@ -13,9 +13,9 @@ Nous sommes heureux de pouvoir vous annoncer en avant première les 7 premiers s
 * **Gilles Debunnes**, de Angular à React (ou pas)
 * **Elisabel Généreux**, Android et programmation Réactive
 * **Didier Girard**, Cloud Analytics, de 0 à 100 000 events par secondes en 50'
+* **Martin Gorner**, Tensorflow et l’apprentissage profond, sans les équations différentielles
 * **Tugdual Grall**, Fast Car, Big Data - Ou comment le streaming peut aider la formule 1.
 * **Alain Regnier**, 20 cool things about GCP
-* **Sylvain Wallez**, Kibana+Timelion : analyse et visualisation de séries temporelles avec ElasticSearch
 * **Sebastian Witalec**, Sharing code Between Web and Native Apps
 
 
