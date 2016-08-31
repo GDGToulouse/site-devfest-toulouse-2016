@@ -71,5 +71,82 @@
     "tags": [
       "Méthodes et Outils"
     ]
+  },
+  "101": {
+    "id": 101,
+    "title": "De Angular à React (ou pas)",
+    "language": "Français",
+    "description": "Tech Lead d'une équipe de 6 dévelopeurs front en `AngularJS` pendant un an, j'ai acquis une bonne expertise de Angular 1.<br>Mais sur mon prochain projet, en solo, j'ai décidé d'utiliser `React`.<br>Parce qu'Angular2 n'a pas grand chose à voir avec le 1, a été mal annoncé et ne semble pas encore mûr. Parce que j'ai eu des échos favorables sur React. Parce que c'est hype et que j'aime bien ce que j'en ai vu. Mais surtout parce que je ne connais pas, et que j'aime apprendre.<br>Le projet est modérément complexe, mais utilisé par 5000 nouvelles personnes chaque jour, il doit être totalement fiable. Le client est à 4 heures de Toulouse, et pour éviter les interventions sur place, je compte blinder les tests.<br>Dans cette présentation, je ferai donc un retour d'expérience et comparerai les deux frameworks. Avantages et inconvénients de  chacun, difficultés et bonnes surprises pour qui souhaite passer de l'un à l'autre.<br>Je commence le  développement à la rentrée et espère terminer fin octobre. On pourra alors savoir si je suis resté en React, et qui sait, tester l'application grandeur nature lors de ma présentation ?",
+    "speakers": [1],
+    "complexity": "Confirmé",
+    "tags": [
+      "Web"
+    ]    
+  },
+  "102": {
+    "id": 102,
+    "title": "Android et programmation réactive - RxJava",
+    "language": "Français",
+    "description": "Comment et pourquoi utiliser la programmation réactive <a href=\"https://github.com/ReactiveX/RxJava\">RxJava</a> en développant pour Android ?",
+    "speakers": [2],
+    "complexity": "Confirmé",
+    "tags": [
+      "Mobile"
+    ]    
+  },
+  "103": {
+    "id": 103,
+    "title": "Cloud Analytics : de 0 à 100000 Evénements par seconde en 50'",
+    "language": "Français",
+    "description": "En partant de zéro nous aurons au bout de 50' une chaine complète d'analyse de la donnée qui verra transiter 100000 événements par seconde : de l'injection (qui est semble simple mais n'est pas trivial) jusqu'à l'outil de reporting qui montrera un report temps réel sur les données injectées.<br>En apportant puissance, flexibilité et coût faible, le cloud s'impose de plus en plus comme l'outil indispensable pour construire une chaine d'analyse de la donnée. Nous l'utiliserons durant cette session qui contiendra trucs et astuces, retours d'expérience et live coding.<br>Tags : #BigQuery #Dataflow #PubSub #DataStudio #Datalab #ComputeEngine",
+    "speakers": [3],
+    "complexity": "Confirmé",
+    "tags": [
+      "Web"
+    ]    
+  },
+  "104": {
+    "id": 104,
+    "title": "Tensorflow et l’apprentissage profond, sans les équations différentielles",
+    "language": "Français",
+    "description": "Google a récemment publié son framework d’intelligence artificielle appelé Tensorflow. Avec ce nouvel outil, l’apprentissage automatique franchit le pas entre la science de laboratoire et le métier d’ingénieur. Dans cette session, nos vous monterons comment choisir la bonne architecture de réseau de neurones pour votre problème et comment bien gérer son apprentissage. Savoir résoudre des équations différentielles n’est plus nécessaire. Des problèmes difficiles comme la reconnaissance de l’écriture manuscrite peuvent maintenant être résolus avec quelques lignes de Python/Tensorflow et une collection de trucs & astuces d’ingénieur.",
+    "speakers": [4],
+    "complexity": "Confirmé",
+    "tags": [
+      "Méthodes et Outils"
+    ]    
+  },
+  "105": {
+    "id": 105,
+    "title": "Fast Cars, Big Data - Ou comment le streaming peut aider la Formule 1!",
+    "language": "Français",
+    "description": "Les voitures, et tout particulièrement les voitures de courses, génèrent énormément de données. Durant cette présentation, basée sur des démonstrations, vous verrez comment : <ul><li>Capturer et traiter les données en temps réel avec l’API Kafka et Spark</li><li>Analyser ces données avec Apache Spark et Drill</li></ul>Le but de cette présentation, basée sur des démonstrations est de montrer qu’il est possible aujourd’hui, sur une seule plateforme big data: <ul><li>de capturer les données en temps reel sous forme de flux avec Kafka</li><li>les traiter avec Spark Streaming les stocker sous différentes formes en fonction des besoins fichiers (JSON, Parquet), mais aussi base nosql (HBase, MapRDB JSON, ..)</li><li>les analyser en mode batch par exemple pour faire de la maintenance predictive via du machine learning avec Spark ML, ou plus simplement des requetes SQL avec Apache Drill.</li>Le projet est disponible en open source et s’appuie sur: <ul><li>Des Producers/Consumers Apache Kafka</li><li>Une Web Application pour la visualisation en temps reel avec Kafka Consumer+Web Socket</li><li>Un simulateur de course pour la generation des données TORCS (The Open Source Racing Car Simulator)</li>",
+    "speakers": [5],
+    "complexity": "Débutant",
+    "tags": [
+      "Web"
+    ]
+  },
+  "106": {
+    "id": 106,
+    "title": "20 cool things about Google Cloud Platform",
+    "language": "Français",
+    "description": "Depuis ses débuts il y’a plusieurs années, GCP aka Google Cloud Platform a considérablement évolué pour devenir une plaforme majeure de l’écosystème Cloud. Composée de nombreux produits et technologies, elle couvre aujourd’hui des choses très différentes comme les Machine Virtuelles, le PaaS, les bases de données relationnelles et NoSQL, le BigData, les Containers, le Machine Learning… Cette présentation donnera une vue d’ensemble de ces technologies et couvrira plus précisément 20 aspects particulièrement intéressants de GCP. Elle sera accompagnée de tips et de retours d’expérience en tant que dévelopeur et utilisateur de GCP depuis plusieurs années.",
+    "speakers": [6],
+    "complexity": "Débutant",
+    "tags": [
+      "Web"
+    ]    
+  },
+  "107": {
+    "id": 107,
+    "title": "Sharing Code Between Web and Native Apps",
+    "language": "English",
+    "description": "NativeScript has opened up a whole new world to Angular developers: the ability to share code directly between your web and native iOS/Android applications. Which is awesome! But, just because you can share code across multiple platforms, doesn’t mean that you necessarily should.<br>In this talk we’ll first take a look at what NativeScript makes possible from a code sharing perspective. We’ll build a few Angular components and use them both in the browser and on mobile devices. Then we’ll take a step back and look at the same code from a pragmatic, maintenance-oriented perspective. Come for practical tips & tricks on sharing code across multiple development environments.",
+    "speakers": [7],
+    "complexity": "Débutant",
+    "tags": [
+      "Mobile"
+    ]    
   }
 }

@@ -1,7 +1,7 @@
 {
   "0": {
     "id": 0,
-    "featured": true,
+    "featured": false,
     "name": "Peut-être vous ?",
     "title": "Developer Relations Program Manager",
     "company": "Votre entreprise ici",
@@ -12,21 +12,71 @@
   "1": {
     "id": 1,
     "featured": true,
-    "name": "Peut-être vous ?",
-    "title": "Developer Relations Program Manager",
-    "company": "Votre entreprise ici",
+    "name": "Gilles Debunne",
+    "title": "Developpeur",
+    "company": "Freelance",
     "country": "France",
-    "photoUrl": "/images/people/you.jpg",
-    "bio": "Nous sommes ouverts à toutes les propositions de sujets qui vous paraîtraient intéressantes."
+    "photoUrl": "https://pbs.twimg.com/profile_images/3737974281/520e22f642d5820473b38eacc0177ed1.jpeg",
+    "bio": "Développeur Freelance sur Toulouse depuis 4 ans, je me spécialise dans l'UX, front ou mobile. Éclectique, chercheur au CNRS, en SSII ou dans l'équipe Android chez Google, j'ai toujours travaillé près et pour l'utilisateur."
   },
   "2": {
     "id": 2,
     "featured": true,
-    "name": "Peut-être vous ?",
-    "title": "Developer Relations Program Manager",
-    "company": "Votre entreprise ici",
+    "name": "Elisabel Généreux",
+    "title": "Developpeuse / Formatrice",
+    "company": "DocDoku",
     "country": "France",
-    "photoUrl": "/images/people/you.jpg",
-    "bio": "Nous sommes ouverts à toutes les propositions de sujets qui vous paraîtraient intéressantes."
+    "photoUrl": "https://pbs.twimg.com/profile_images/524173313816293376/MsIn-Hsu.jpeg",
+    "bio": "Développeuse / formatrice Android et iOS à DocDoku J'aime quand les choses sont naturelles et simples !"
+  },
+  "3": {
+    "id": 3,
+    "featured": true,
+    "name": "Didier Girard",
+    "title": "Cloud Rider",
+    "company": "Sfeir",
+    "country": "France",
+    "photoUrl": "https://pbs.twimg.com/profile_images/768549574554312704/bZJdgS17_400x400.jpg",
+    "bio": "Cloud Rider / GDE @Google / VP Engineering @Sfeir / PhD Machine Learning @EnsDeLyon"
+  },
+  "4": {
+    "id": 4,
+    "featured": true,
+    "name": "Martin Gorner",
+    "title": "Developer Relations",
+    "company": "Google",
+    "country": "France",
+    "photoUrl": "https://lh3.googleusercontent.com/m0c2JUp8YlMhmi6KzSBky1q_PI7aM_ARArk55j_fOiMcp_KV4soZXXWoG2Vdi0QOSGBXEMwLcw=w1920-h1080-rw-no",
+    "bio": "Martin Gorner, Google Developer Relations. Martin se passionne pour la science, la technologie, l'informatique, les algorithmes et tout ce qui s'en rapproche. Après avoir obtenu son diplôme d'ingénieur à Mines Paris-Tech, Martin a commencé sa carrière dans le groupe \"computer architecture\" chez ST Microelectronics. Il a ensuite passé les 11 années suivantes dans le domaine naissant des livres électroniques, d'abord avec la start-up mobipocket.com, qui est ensuite devenue la partie logicielle du Kindle d'Amazon et ses versions mobiles. I a rejoint Google en 2011 et il s'y consacre aux sujets big data (Cloud Dataflow) et Machine Learning (Tensorflow)"
+  },
+  "5": {
+    "id": 5,
+    "featured": true,
+    "name": "Tugdual Grall",
+    "title": "Chief Technical Evangelist",
+    "company": "MapR",
+    "country": "France",
+    "photoUrl": "http://www.gravatar.com/avatar/6742510452dab26bba43130af24bb202?size=600",
+    "bio": "Tugdual Grall, est Chief Technical Evangelist EMEA chez MapR. Il travaille avec les clients et les communautés de développeurs européennes, pour faciliter l’adoption de MapR, Hadoop et NoSQL. Avant de travailler chez MapR, “Tug”, était Technical Evangelist chez MongoDB et Couchbase. Tug a travaillé comme CTO chez eXo Platform, et comme Product Manager et Développeur sur la platform Java/JavaEE d’Oracle. Tugdual est également co-fondateur du Nantes JUG (Java Users Group) qui réunit tous les mois depuis 2008 les développeurs et architectes de la région nantaise."
+  },
+  "6": {
+    "id": 6,
+    "featured": true,
+    "name": "Alain Regnier",
+    "title": "Architecte Technique",
+    "company": "Alto Labs",
+    "country": "France",
+    "photoUrl": "https://lh6.googleusercontent.com/-DsgSFTFOLC8/AAAAAAAAAAI/AAAAAAAAA7A/3sgpLW1MMng/photo.jpg",
+    "bio": "Alain Regnier est Architecte Technique et Entrepreneur passionné d’innovation. Il a passé 10 ans dans la Silicon Valley, où il a travaillé pour des startups et des grosses sociétés et où il a notamment participé à la rédaction de plusieurs standards des Web Services et des Objets Connectés. Au sein d’Alto Labs, un Google Cloud Partner, il travaille en tant que consultant et développeur principalement autour du Cloud, des Applications Web et des Objets Connectés. Il accompagne également des startups dans le développement de prototypes/POCs techniques et en faisant le lien entre les fondateurs et les développeurs. Il est certifié Google Cloud Platform Qualified Systems Operations Professional. Il est aussi le co-fondateur du GDG Paris (Google Developer Group), du GDG Cloud Paris et de StartupVillage (http://www.startupvillage.fr)"
+  },
+  "7": {
+    "id": 7,
+    "featured": true,
+    "name": "Sebastian Witalec",
+    "title": "Technical Evangelist for Telerik",
+    "company": "Progress",
+    "country": "United Kingdoms",
+    "photoUrl": "https://pbs.twimg.com/profile_images/752636760245534720/aWQ8XKJD.jpg",
+    "bio": "Sebastian Witalec is a Technical Evangelist for Telerik with over 8 years of experience in software engineering and architecture. Sebastian has passion for all types of technologies. However in the last few years his focus shifted towards cross platform Mobile development where he gained experience with Apache Cordova and NativeScript. He is always happy to learn about the new stuff and to pass the knowledge as far as his voice (or the wire) can take him. Sebastian is based in London, UK actively working with various Dev communities in the area. When not acting techie he is a massive football fan/player (probably bigger at heart than skills)."
   }
 }
