@@ -23,7 +23,7 @@ Le détail de ces conférences, ainsi que la bio des speakers seront en ligne da
 Si vous avez un sujet, ainsi que l'envie de le partager, n'hésitez pas à nous le proposer sur le CFP : https://devfest-toulouse.cfp.io vous avez jusqu'au 20 septembre.
 
 
-Si vous avez envie que votre entreprise participe à l'événement, c'est possible grâce au sponsoring : https://docs.google.com/document/d/1-mfAewuqxiNqPyb6_lAROZAmns8n7JIh79eZXynSV_I/pub
+Si vous avez envie que votre entreprise participe à l'événement, c'est possible grâce au sponsoring : https://docs.google.com/presentation/d/16TFfnARF_01Wk5PJog-2FvqvFQoeEt3bpA0HCjrdmQ0/edit#slide=id.p
 
 
 On vous attend nombreux !
