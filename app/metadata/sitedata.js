@@ -42,5 +42,5 @@ module.exports = {
   socialFeed: {
     source: '/data/tweets.json'
   },
-  partnershipProposition: 'https://docs.google.com/document/d/1-mfAewuqxiNqPyb6_lAROZAmns8n7JIh79eZXynSV_I/pub'
+  partnershipProposition: 'https://docs.google.com/document/d/1-mfAewuqxiNqPyb6_lAROZAmns8n7JIh79eZXynSV_I/edit?usp=sharing'
 };
