@@ -127,7 +127,7 @@
         },
 
         _speakerChanged: function () {
-          var generatedClass = this._generateClass(this.speaker.tags[0]);
+          var generatedClass = this._generateClass(this.speaker.tags && this.speaker.tags[0] || '');
           this.customStyle['--paper-scroll-header-panel-color'] = 'var(--' + generatedClass + ')';
           this._previousBrowserColor = document.getElementsByName('theme-color')[0].content;
           document.getElementsByName('theme-color')[0].content = this.getComputedStyleValue('--' + generatedClass);
