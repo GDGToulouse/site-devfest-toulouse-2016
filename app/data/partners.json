@@ -9,9 +9,9 @@
 },{
     "title": "Or",
     "logos": [{
-        "name": "Google",
-        "url": "https://google.com",
-        "logoUrl": "../images/partners/google.svg",
+        "name": "JFrog",
+        "url": "https://jfrog.com",
+        "logoUrl": "../images/partners/JFrog.png",
         "width": 120
     }]
 },{
@@ -21,6 +21,11 @@
         "url": "http://www.docdoku.com/",
         "logoUrl": "../images/partners/docdoku.png",
         "width": 100
+    },{
+        "name": "Google",
+        "url": "https://google.com",
+        "logoUrl": "../images/partners/google.svg",
+        "width": 120
     }]
 }, {
     "title": "Médias",
