@@ -13,6 +13,11 @@
         "url": "https://jfrog.com",
         "logoUrl": "../images/partners/JFrog.png",
         "width": 120
+    },{
+        "name": "Groupe ONEPOINT",
+        "url": "https://www.groupeonepoint.com/",
+        "logoUrl": "../images/partners/onepoint.png",
+        "width": 120
     }]
 },{
     "title": "Argent",
@@ -25,6 +30,21 @@
         "name": "Decasoft",
         "url": "http://www.decasoft.fr/",
         "logoUrl": "../images/partners/decasoft.png",
+        "width": 100
+    },{
+        "name": "Lyra Network",
+        "url": "https://www.lyra-network.com/",
+        "logoUrl": "../images/partners/lyra.png",
+        "width": 100
+    },{
+        "name": "Infotel",
+        "url": "http://www.infotel.com/",
+        "logoUrl": "../images/partners/infotel.png",
+        "width": 100
+    },{
+        "name": "Inside Group",
+        "url": "https://insidegroup.fr/",
+        "logoUrl": "../images/partners/insidegroup.jpg",
         "width": 100
     },{
         "name": "Google",
