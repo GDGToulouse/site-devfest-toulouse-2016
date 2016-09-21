@@ -5,6 +5,11 @@
         "url": "http://www.toulouse-metropole.fr/",
         "logoUrl": "../images/partners/TLSE_METROPOLE.jpg",
         "width": 170
+    },{
+        "name": "Capgemini",
+        "url": "https://www.fr.capgemini.com",
+        "logoUrl": "../images/partners/capgemini.png",
+        "width": 170
     }]
 },{
     "title": "Or",
@@ -17,6 +22,11 @@
         "name": "Groupe ONEPOINT",
         "url": "https://www.groupeonepoint.com/",
         "logoUrl": "../images/partners/onepoint.png",
+        "width": 120
+    },{
+        "name": "Sigfox",
+        "url": "http://www.sigfox.com/",
+        "logoUrl": "../images/partners/sigfox.png",
         "width": 120
     }]
 },{
@@ -45,6 +55,11 @@
         "name": "Inside Group",
         "url": "https://insidegroup.fr/",
         "logoUrl": "../images/partners/insidegroup.jpg",
+        "width": 100
+    },{
+        "name": "Groupe SII",
+        "url": "http://www.groupe-sii.com",
+        "logoUrl": "../images/partners/sii.png",
         "width": 100
     },{
         "name": "Google",
