@@ -114,5 +114,10 @@
         "name": "Graph Database Toulouse",
         "url": "http://www.meetup.com/fr-FR/graphdb-toulouse/",
         "logoUrl": "../images/partners/graphdb.jpeg"        
+    },
+    {
+        "name": "Digital Place",
+        "url": "http://www.digitalplace.fr",
+        "logoUrl": "../images/partners/LogoDigitalPlace.png"        
     }]
 }]
