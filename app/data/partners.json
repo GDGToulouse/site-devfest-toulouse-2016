@@ -66,6 +66,11 @@
         "url": "https://google.com",
         "logoUrl": "../images/partners/google.svg",
         "width": 120
+    },{
+        "name": "Viseo",
+        "url": "http://www.viseo.com/",
+        "logoUrl": "../images/partners/viseo.png",
+        "width": 120
     }]
 }, {
     "title": "Médias",
@@ -113,11 +118,11 @@
     {
         "name": "Graph Database Toulouse",
         "url": "http://www.meetup.com/fr-FR/graphdb-toulouse/",
-        "logoUrl": "../images/partners/graphdb.jpeg"        
+        "logoUrl": "../images/partners/graphdb.jpeg"
     },
     {
         "name": "Digital Place",
         "url": "http://www.digitalplace.fr",
-        "logoUrl": "../images/partners/LogoDigitalPlace.png"        
+        "logoUrl": "../images/partners/LogoDigitalPlace.png"
     }]
 }]
