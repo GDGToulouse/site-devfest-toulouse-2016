@@ -53,3 +53,5 @@ Comment le Web peut nous sortir "contre notre grès" du brouhaha perpetuel d'int
 Voila, nous esperons vous voir lors de cette journée dédiée au développement et aux développeurs. Encore une fois nous tenions à remercier toutes et tous ceux qui ont pris le temps de réfléchir à un sujet et de le soumettre ainsi qu'à tous nos sponsors sans qui une telle journée aurait été impossible à organiser.
 
 Merci à vous tous et rendez-vous le 3 Novembre 2016 pour le DevFest Toulouse 2016 !
+
+PS: N'oubliez pas de prendre vos places sur https://www.billetweb.fr/devfest-toulouse-2016

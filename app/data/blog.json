@@ -43,5 +43,14 @@
     "secondaryColor": "#673AB7",
     "image": "/images/posts/cloture_cfp.jpg",
     "brief": "Pour vous faire patienter avant le programme final."
+  },
+  {
+    "id": "annonce-programme",
+    "title": "Annonce des speakers et du programme.",
+    "posted": "2016-09-30",
+    "primaryColor": "#673AB7",
+    "secondaryColor": "#673AB7",
+    "image": "/images/posts/speakers.jpg",
+    "brief": "Enfin, voici la liste des speakers et des talks sélectionnés"
   }
 ]
