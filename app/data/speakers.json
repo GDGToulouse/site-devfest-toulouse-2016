@@ -68,5 +68,145 @@
     "country": "United Kingdoms",
     "photoUrl": "https://pbs.twimg.com/profile_images/752636760245534720/aWQ8XKJD.jpg",
     "bio": "Sebastian Witalec is a Technical Evangelist for Telerik with over 8 years of experience in software engineering and architecture. Sebastian has passion for all types of technologies. However in the last few years his focus shifted towards cross platform Mobile development where he gained experience with Apache Cordova and NativeScript. He is always happy to learn about the new stuff and to pass the knowledge as far as his voice (or the wire) can take him. Sebastian is based in London, UK actively working with various Dev communities in the area. When not acting techie he is a massive football fan/player (probably bigger at heart than skills)."
+  },
+  "8": {
+    "id": 8,
+    "featured": false,
+    "name": "Sofiya Huts",
+    "title": "GDG Lviv and WTM",
+    "company": "JustAnswer.com",
+    "country": "Ukraine",
+    "photoUrl": "https://devfest.gdg.org.ua/images/people/sofiya_huts.jpg",
+    "bio": "Sofia is a manager of <a href=\"http://lviv.gdg.org.ua/\">GDG Lviv</a> and also leads local WTM <a href=\"https://www.womentechmakers.com/\">Women Techmakers</a> community in Lviv. Additionally, one of the organisers of <a href=\"https://devfest.gdg.org.ua/\">GDG DevFest Ukraine</a>. Despite that fact that Sofia has been working as the Full-stack.Net developer during last two years, she is passionate about front-end stuff, especially everything related to Progressive Web Apps and developing a fancy web application using Polymer."
+  },
+  "9": {
+    "id": 9,
+    "featured": false,
+    "name": "Olivier Leplus",
+    "title": "Developer relations",
+    "company": "Google",
+    "country": "France",
+    "photoUrl": "https://pbs.twimg.com/profile_images/459265225221353473/xilGJIvG.jpeg",
+    "bio": "My day to day my mission is to help developers create successful and quality apps. As a passionate web developer, I am always discovering and playing with new web technologies !"
+  },
+  "10": {
+    "id": 10,
+    "featured": false,
+    "name": "Romain Mouton",
+    "title": "Développeur Android",
+    "company": "Webedia",
+    "country": "France",
+    "photoUrl": "https://fr.gravatar.com/userimage/78986938/97aeae8024e855861143722ca85cd7fc.jpg?size=500",
+    "bio": "Père d'une petite fille qui veut bien me laisser du temps pour faire des apps Android et de l'escalade ! Sinon la journée je suis développeur Android chez Webedia (Allociné, JeuxVideo, 750g, PurePeople, ...)"
+  },
+  "11": {
+    "id": 11,
+    "featured": false,
+    "name": "Arnaud Giuliani",
+    "title": "Développeur",
+    "company": "ekito",
+    "country": "France",
+    "photoUrl": "https://www.ekito.fr/people/wp-content/uploads/userphoto/3.png",
+    "bio": "Développeur & Consultant en développement java. J'interviens sur les architectures distribuées, les infrastructures et les solutions cloud (devops, base de données ...). Je suis développeur android depuis quelques années et je m'intéresse aux nouveaux langages comme Kotlin ou Go et aux nouveaux paradigmes comme la programmation fonctionnelle, développement applications réactives ..."
+  },
+  "12": {
+    "id": 12,
+    "featured": false,
+    "name": "Didier Plaindoux",
+    "title": "Grammar Nazi",
+    "company": "Fungus",
+    "country": "France",
+    "photoUrl": "http://s.gravatar.com/avatar/9eede8e58faffcb15bcb7c8f8a8dc007?s=80",
+    "bio": "Après avoir dirigé une équipe de R&D chez Fujitsu sur le thème du Grid computing j'ai décidé de devenir Freelance. Mon thème privilégié porte sur les systèmes et architectures distribuées en y intégrant la mobilité et la sécurité. Par ailleurs en tant qu'activiste open source je développe des librairies Java, Javascript, Python et Swift ainsi qu'un langage portant le doux nom de Thicket."
+  },
+  "13": {
+    "id": 13,
+    "featured": false,
+    "name": "Olivier Guillet",
+    "title": "Développeur",
+    "company": "Emotic",
+    "country": "France",
+    "photoUrl": "https://pbs.twimg.com/profile_images/679084020362305536/h-OkGRXd_400x400.png",
+    "bio": "Olivier Guillet développe depuis plus de 15 ans : jeux vidéos, sites internet ou applications mobiles, le plus souvent sur des technologies web. Egalement passionné de réalité virtuelle, réalité augmentée et innovations en tout genres, aux frontières de l'informatique et du cyberpunk."
+  },
+  "14": {
+    "id": 14,
+    "featured": false,
+    "name": "Thierry Chatel",
+    "title": "Indépendant",
+    "company": "MethoTIC Conseil",
+    "country": "France",
+    "photoUrl": "http://gravatar.com/avatar/b7f1da7c20c20b6aeb1eea0b9dc13f25?s=360",
+    "bio": "Consultant indépendant et formateur Angular. Google Developer Expert sur Angular depuis 2014."
+  },
+  "15": {
+    "id": 15,
+    "featured": false,
+    "name": "Antoine Vernois",
+    "title": "Craftsman",
+    "company": "Crafting Labs",
+    "country": "France",
+    "photoUrl": "https://pbs.twimg.com/profile_images/378800000410578599/f46ba12e144dfa139fab3038f2bbf5dc.jpeg",
+    "bio": "Freelance - Software Anarchist / Common Sense Consultant"
+  },
+  "16": {
+    "id": 16,
+    "featured": false,
+    "name": "Mathieu Passenaud",
+    "title": "CV architect",
+    "company": "",
+    "country": "France",
+    "photoUrl": "https://scontent-ams3-1.xx.fbcdn.net/t31.0-8/14379846_1055460101189789_6589177864674020639_o.jpg",
+    "bio": "Diplômé d'informatique embarqué, par le hasard des choses je me suis retrouvé dans l'univers du Cloud."
+  },
+  "17": {
+    "id": 17,
+    "featured": false,
+    "name": "Aurélie Vache",
+    "title": "Développeuse",
+    "company": "ATCHIK",
+    "country": "France",
+    "photoUrl": "http://scraly.com/images/aurelie_vache5.jpg",
+    "bio": "Développeuse Full-Stack depuis 10 ans­, Duchess France Leader."
+  },
+  "18": {
+    "id": 18,
+    "featured": false,
+    "name": "Frédéric Cabestre",
+    "title": "Développeur",
+    "company": "",
+    "country": "France",
+    "photoUrl": "https://pbs.twimg.com/profile_images/584007148851564545/2j5Cfo1c.png",
+    "bio": "Développeur, tendance «software craftsman». Depuis longtemps attiré par les langages et leur mise en œuvre. Grand amateur de programmation fonctionnelle, même quand ce n'était pas encore cool. Curieux des systèmes, surtout s'ils sont distribués."
+  },
+  "19": {
+    "id": 19,
+    "featured": false,
+    "name": "Igor Laborie",
+    "title": "Développeur",
+    "company": "MonkeyPatch",
+    "country": "France",
+    "photoUrl": "https://pbs.twimg.com/profile_images/3404066863/94e02f3bca9b038c4546f4e42ed05bc6.jpeg",
+    "bio": "Développeur passionné depuis 15 ans. Expert dans les technos Java et Web. Je participe souvent et anime (parfois) des rdv techniques au travers de ma société ou dans des meeting comme le Toulouse JUG, Software Craftsmanship Toulouse."
+  },
+  "20": {
+    "id": 20,
+    "featured": false,
+    "name": "François Teychene",
+    "title": "Devops",
+    "company": "Tabmo",
+    "country": "France",
+    "photoUrl": "https://lh6.googleusercontent.com/-RvGrfi4p_Uk/AAAAAAAAAAI/AAAAAAAAAeA/laex6frLlLc/photo.jpg?sz=360",
+    "bio": "Devops la journée, JUG Leader le soir sur Montpellier, j'aime parler et discuter de developpements et surtout de Docker. Ancien développeur (Java/Clojure/Python) et gestionnaire de build, j'ai passé le cap vers le Devops et me focus notamment Docker sur lequel j'aime tester de nouvelles choses et mettre en place des services pour les équipes avec lesquelles je travaille."
+  },
+  "21": {
+    "id": 21,
+    "featured": false,
+    "name": "Slot Sponsors",
+    "title": "Slot Sponsors",
+    "company": "Cap Gemini",
+    "country": "France",
+    "photoUrl": "",
+    "bio": ""
   }
 }

@@ -148,5 +148,159 @@
     "tags": [
       "Mobile"
     ]    
+  },
+  "108": {
+    "id": 108,
+    "title": "Wanna more fire? - Let's try polymerfire!",
+    "language": "English",
+    "description": "Have you ever tried to build Web application using Polymer with Firebase integration, additionally adhere to PWA's canons? I have, and know how many surprises can be found during developmet :). Polymerfire is a great Polymer Web Component Firebase and looks very easy to play with. During my talk I want to dive into tips & tricks on how you can integrate your web app on Polymer with Firebase + how to add offline support (since Firebase uses web sockets for data transferring, service worker will not help in that c",
+    "speakers": [8],
+    "complexity": "Débutant",
+    "tags": [
+      "Web"
+    ]    
+  },
+  "109": {
+    "id": 109,
+    "title": "Don't call me just a website anymore. I am a progressive web app",
+    "language": "Français",
+    "description": "A la fin du XXième siècle, le web s’imposait sur nos ordinateurs face aux applications. Plus besoin d’installer de lourdes solutions depuis nos CD-Roms. Aujourd’hui, le mobile domine nos vies et les applications natives ont refait leur apparition.<br><br>Le web n’a pas dit son dernier mot et ne compte pas se laisser faire ! Les progressive web apps relèvent le défis afin d’apporter à vos utilisateurs la même expérience sur votre site qu’une application native.",
+    "speakers": [9],
+    "complexity": "Débutant",
+    "tags": [
+      "Web"
+    ]    
+  },
+  "110": {
+    "id": 110,
+    "title": "Tips : Productivité et développement Android",
+    "language": "Français",
+    "description": "1 slide 1 tip ! Conférence interactive ou nous verrons ensemble des astuces pour améliorer sa productivité. Les sujets abordés seront vastes : Raccourcis, config et plugins Android Studio, méthodes \"utils\" parfois peu connus du SDK Android, tools externes. Vous savez concaténer une liste avec un délimiteur ? Supprimer les données de votre app et la relancer en 1s ? Non ?! Venez n'ayez pas peur ;)",
+    "speakers": [10],
+    "complexity": "Confirmé",
+    "tags": [
+      "Mobile"
+    ]    
+  },
+  "111": {
+    "id": 111,
+    "title": "Develop a reactive Android app with Kotlin",
+    "language": "Français",
+    "description": "Le but de l’atelier est la découverte du langage Kotlin pour le développement d’applications Android et de profiter du langage pour découvrir le développement réactif (lambdas & RxJava). Cet atelier va s’articuler autour du développement d’une application météo. Une API météo sera à disposition (sur le cloud) pour permettre d’aller obtenir la géolocalisation d’une adresse, et la météo pour une localisation donnée.<br><br>Les étapes de l’atelier : Introduction à Kotlin ~20/25 min (Découverte rapide du langage) Mise en place de l’environnement ~5/10 min (Focus sur la configuration gradle du projet) Premier contact ~20 min (Développement de l’activité principale de l’application, UI bindings et autres facilités Kotlin ...) Compléter le SDK météo ~20 min (Développement du SDK météo, pour effectuer des appels vers des services web dédiés - Programmation réactive avec RxJava et retrofit) Intégrer le SDK dans l’application finale ~20 min (Intégration dans l’activité principale, utilisation de la programmation fonctionnel)<br><br>Chaque étape de l’atelier sera disponible via une branche git.",
+    "speakers": [11],
+    "complexity": "Débutant",
+    "tags": [
+      "Mobile"
+    ]    
+  },
+  "112": {
+    "id": 112,
+    "title": "De Java à  Swift en deux temps trois mouvements",
+    "language": "Français",
+    "description": "Swift est désormais open source ! \"Google considérerait Swift comme un langage « de première classe » pour Android\" pouvait-on lire en avril sur le réseau. Et enfin un portage Android du langage a été \"merge\" dans la base de code officielle de Swift.<br><br>Bon tout ceci est un bon prétexte pour apprendre ce nouveau langage et les possibilités qu'il peut nous apporter en terme de développement. Une comparaison avec Java sera notamment proposée afin de montrer les similitudes et differences entre ces deux langages .",
+    "speakers": [12],
+    "complexity": "Débutant",
+    "tags": [
+      "Méthodes et Outils"
+    ]    
+  },
+  "113": {
+    "id": 113,
+    "title": "WebVR : de la réalité virtuelle dans nos navigateurs, en route vers le Metaverse !",
+    "language": "Français",
+    "description": "WebVR est une future norme du W3C, en phase de draft actuellement.<br>Il s'agit d'une API Javascript expérimentale qui permet d’utiliser le navigateur web de votre ordinateur ou de votre mobile directement dans votre casque de réalité virtuelle, d’un basique Google Cardboard à un très sophistiqué HTC Vive.",
+    "speakers": [13],
+    "complexity": "Débutant",
+    "tags": [
+      "Web"
+    ]    
+  },
+  "114": {
+    "id": 114,
+    "title": "Modules Angular 2 : des bundles au chargement dynamique",
+    "language": "Français",
+    "description": "Dernière modification majeure avant la version finale, les modules introduits dans la RC5 d'Angular 2 changent la donne dans la façon de structurer son application.<br><br>Qu'apportent-il en terme de simplification et d'encapsulation ? Comment s'intègrent-ils avec l'injection de dépendances hiérarchique ? <br><br>Le mythe des composants sur une étagère deviendra-t-il une réalité ?",
+    "speakers": [14],
+    "complexity": "Confirmé",
+    "tags": [
+      "Web"
+    ]    
+  },
+  "115": {
+    "id": 115,
+    "title": "Clean Code",
+    "language": "Français",
+    "description": "« Une attention continue à l'excellence technique et à une bonne conception renforce l’Agilité » — 9e principe du manifeste agile.<br><br>À quoi ça sert de faire du code propre ? Et puis c'est quoi d'abord ? Et surtout, comment je m'y mets ? Par quoi je commence ?<br>Cette session cherche avant tout à questionner notre relation au code et à notre métier tout en apportant des éléments de réponse.",
+    "speakers": [15],
+    "complexity": "Débutant",
+    "tags": [
+      "Méthodes et Outils"
+    ]    
+  },
+  "116": {
+    "id": 116,
+    "title": "My resumé in an operating system : un buzz et ses conséquences",
+    "language": "Français",
+    "description": "Just for fun !<br><br>Pour mon article mensuel sur mon blog, je me suis attelé à écrire un système d'exploitation basique pour expliquer les principes de base. <br><br>S'en est suivi un buzz non voulu :<ul><li>dans le top 5 de hacker news pendant plusieurs heures, top 10 pendant plus d'une journée</li><li>240 000 vues en 2 jours</li><li>quelques milliers de tweets</li><li>des articles sur des sites anglais, russes, allemands, turcs....</li><li>150 stars sur le projet GitHub</li><li>LinkedIn et viadeo qui s'excitent</li><li>quelques recruteurs en direct...</li></ul><br>Comment j'ai essayé de gérer ça dans la panique la plus totale....",
+    "speakers": [16],
+    "complexity": "Débutant",
+    "tags": [
+      "Web"
+    ]    
+  },
+  "117": {
+    "id": 117,
+    "title": "Dans les coulisses de Google BigQuery",
+    "language": "Français",
+    "description": "Google BigQuery est la solution \"Analytics As a Service\" de Google.<br>Lorsque l’on pense à des technologies liées à la Big Data, on pense de suite à l’éco-système Hadoop, ou bien à Elasticsearch ou bien ces temps-ci beaucoup à Spark, mais il y a un « petit service » de Google qui ne fait pas beaucoup parler de lui mais qui peut tirer son épingle du jeu dans différents cas de figure.",
+    "speakers": [17],
+    "complexity": "Débutant",
+    "tags": [
+      "Méthodes et Outils"
+    ]    
+  },
+  "118": {
+    "id": 118,
+    "title": "Les Acteurs, un modèle pour dompter le parrallélisme",
+    "language": "Français",
+    "description": "La programmation de machines multi-cœur tiens souvent de l'exercice de style, voire même pour certains de la magie noire. Le modèle de programmation basé sur les Acteurs, apparu dans les années 70, se prête bien à résoudre ce problème. Il a prouvé son efficacité grâce au langage Erlang/OTP et contribue au succès du framework Akka. Je vous propose de faire un tour d'horizon du concept, de ces principes fondamentaux, de ces forces mais aussi de ces faiblesses.",
+    "speakers": [18],
+    "complexity": "Confirmé",
+    "tags": [
+      "Méthodes et Outils"
+    ]    
+  },
+  "119": {
+    "id": 119,
+    "title": "Client REST en Java: trop facile avec Feign !",
+    "language": "Français",
+    "description": "Depuis longtemps on cherche les meilleurs solutions pour écrire des serveurs RESTful en Java, et on se préoccupe moins du coté client REST. Or devant l'émergence des architectures micro-services on est de plus en plus concerné par l'écriture de cette couche client. Nous avons déjà beaucoup de possibilités en Java (Apache http-client et fluent-http), JAX-RS 2 (souvent avec Jersey), Spring RestTemplate, ... Mais aujourd'hui il y a l'excellente API qui vient de Netflix: Feign. Venez découvrir Feign durant une session avec beaucoup live coding qui introduira l'API et montrera la simplicité d'utilisation et l'extensibilité de l'api.",
+    "speakers": [19],
+    "complexity": "Débutant",
+    "tags": [
+      "Méthodes et Outils"
+    ]    
+  },
+  "120": {
+    "id": 120,
+    "title": "Au secours, ma prod est sous Docker !",
+    "language": "Français",
+    "description": "Docker est un outil très puissant qui offre de nombreuses possibilités aux équipes.<br>Après l'avoir essayé en dev puis avoir convaincu les obs de le tester sur des environnements intermédiaires, il est temps de partir en prod, et là, c'est le drame ...<br><br>Le passage d'une production sous Docker engendre des problématiques comme le monitoring des containers, la gestion des logs, le scheduling ou la gestion des datas.<br>Dans cette présentation, je ferai un tour d'horizon des approches existantes pour résoudre ces problématiques ainsi que de solutions existantes.",
+    "speakers": [20],
+    "complexity": "Débutant",
+    "tags": [
+      "Méthodes et Outils"
+    ]    
+  },
+  "121": {
+    "id": 121,
+    "title": "",
+    "language": "Français",
+    "description": "",
+    "speakers": [21],
+    "complexity": "Débutant",
+    "tags": [
+      "Méthodes et Outils"
+    ]    
   }
 }
