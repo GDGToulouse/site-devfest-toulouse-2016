@@ -4,7 +4,7 @@ Après avoir recu et évalué 71 propositions, nous avons finalement réussi à 
 
 # A propos du Web ...
 
-Les thèmes abordés concernent le monde du front-end avec des problèmatiques Angular 2, React et Polymer, mais aussi la virtualisation avec les outils du Cloud. Nous aurons aussi un avant gout technique de ce qui nous attend avec la réalité virtuelle. Finalement une approche et méthodologie pour avoir des systèmes scalables sera proposée car quoi que l'on dise avoir quelque chose d'opérationnel "c'est le nerf de la guerre" !
+Les thèmes abordés concernent le monde du front-end avec des problèmatiques Angular 2, React et Polymer, mais aussi la virtualisation avec les outils du Cloud. Nous aurons aussi un avant gout technique de ce qui nous attend avec la réalité virtuelle. Finalement une approche et méthodologie pour avoir des systèmes scalables seront proposées car quoi que l'on dise avoir quelque chose d'opérationnel "c'est le nerf de la guerre" !
 
 __Présentations autour du thème du Web__
 
@@ -19,7 +19,7 @@ __Présentations autour du thème du Web__
 
 # Quid du Mobile ?
 
-Le maitre mot semble être "réactifs" car nous aurons droit à un tour d'horizon avec du développement Android avec RxJava mais aussi des alternatives comme Native script et Kotlin. Certes tout ceci nécessite non seulement des connaissances de certains paradigmes mais en tant qu'artisant développeur une maitrise de nos outils n'est pas une option ! Ce dernier thème sera notamment abordé pour le plus grand bien de notre "productivité".
+Le maitre mot semble être "réactifs" car nous aurons droit à un tour d'horizon avec du développement Android avec RxJava mais aussi des alternatives comme Native script et Kotlin. Certes tout ceci nécessite non seulement des connaissances de certains paradigmes mais en tant qu'artisan développeur une maîtrise de nos outils n'est pas une option ! Ce dernier thème sera notamment abordé pour le plus grand bien de notre "productivité".
 
 __Présentations autour du thème du Mobile__
 
@@ -30,7 +30,7 @@ __Présentations autour du thème du Mobile__
 
 # Sans oublier les méthodes et outils 
 
-Que vous soyez fan de réseaux de neurones, de déploiement, de virtualisation cloud ou logiciel, de paradigme, d'outils et méthode de développement ou tout simplement de langage et bien ce thème est fait pour vous ! En effet nous allons pouvoir partir un peu dans la soute et aborder des sujets un tantinet plus généralistes parfois et peut être qui sait ouvrir de nouvelles portes vers la connaissance.
+Que vous soyez fans de réseaux de neurones, de déploiement, de virtualisation cloud ou logiciel, de paradigme, d'outils et méthode de développement ou tout simplement de langage et bien ce thème est fait pour vous ! En effet nous allons pouvoir partir un peu dans la soute et aborder des sujets un tantinet plus généralistes parfois, et peut être qui sait, ouvrir de nouvelles portes vers la connaissance.
 
 __Présentations autour du thème des Méthodes et Outils__
 
@@ -50,7 +50,7 @@ Comment le Web peut nous sortir "contre notre grès" du brouhaha perpetuel d'int
 
 # Pour finir
 
-Voila, nous esperons vous voir lors de cette journée dédiée au développement et aux développeurs. Encore une fois nous tenions à remercier toutes et tous ceux qui ont pris le temps de réfléchir à un sujet et de le soumettre ainsi qu'à tous nos sponsors sans qui une telle journée aurait été impossible à organiser.
+Voilà, nous espérons vous voir lors de cette journée dédiée au développement et aux développeurs. Encore une fois nous tenions à remercier toutes et tous ceux qui ont pris le temps de réfléchir à un sujet et de le soumettre ainsi qu'à tous nos sponsors sans qui une telle journée aurait été impossible à organiser.
 
 Merci à vous tous et rendez-vous le 3 Novembre 2016 pour le DevFest Toulouse 2016 !
 
