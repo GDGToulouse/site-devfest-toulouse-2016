@@ -44,7 +44,7 @@ __Présentations autour du thème des Méthodes et Outils__
 
 # Spécial OVNI !
 
-Comment le Web peut nous sortir "contre notre grès" du brouhaha perpetuel d'internet !
+Comment le Web peut nous sortir "contre notre gré" du brouhaha perpetuel d'internet !
 
 - "My resumé in an operating system : un buzz et ses conséquences" de Mathieu Passenaud
 
