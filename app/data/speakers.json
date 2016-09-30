@@ -1,14 +1,4 @@
 {
-  "0": {
-    "id": 0,
-    "featured": false,
-    "name": "Peut-être vous ?",
-    "title": "Developer Relations Program Manager",
-    "company": "Votre entreprise ici",
-    "country": "France",
-    "photoUrl": "/images/people/you.jpg",
-    "bio": "Nous sommes ouverts à toutes les propositions de sujets qui vous paraîtraient intéressantes."
-  },
   "1": {
     "id": 1,
     "featured": true,
