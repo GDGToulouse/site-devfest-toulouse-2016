@@ -77,5 +77,8 @@
   },
   "engines": {
     "node": ">=4.0"
+  },
+  "dependencies": {
+    "bower": "^1.7.9"
   }
 }
