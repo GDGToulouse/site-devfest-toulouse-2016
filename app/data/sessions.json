@@ -9,7 +9,7 @@
   },
   "2": {
     "id": 2,
-    "title": "Keynote d'ouverture",
+    "title": "Keynote d'ouverture : Évolution du métier de dévelopeur ces dernières années.",
     "description": "Lancement officiel de la conférence. Remerciements des organisateurs, des sponsors et partenaires.",
     "language": "Français",
     "complexity": "",
@@ -46,6 +46,14 @@
     "description": "Venez avec nous débrieffer votre journée et boire un coup pour fêter ça.<br/><br/><b>Le lieu</b>: Taverne Heidelberg, [1 avenue du Général Compans 31700 BLAGNAC](http://www.taverneheidelberg.fr/)<br/><br/>Le DevFest vous offre à boire dans la limite des stocks prévus.<br/><br/>N'oubliez pas votre badge.",
     "track": {
       "title": "Taverne Heidelberg"
+    }
+  },
+  "7": {
+    "id": 7,
+    "title": "Cloture du DevFest Toulouse 2016",
+    "description": "Remerciements et informations pour l'afterwork",
+    "track": {
+      "title": "Amphi 1"
     }
   },
   "1001": {
