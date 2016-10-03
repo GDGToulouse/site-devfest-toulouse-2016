@@ -52,5 +52,14 @@
     "secondaryColor": "#673AB7",
     "image": "/images/posts/speakers.jpg",
     "brief": "Enfin, voici la liste des speakers et des talks sélectionnés"
+  },
+  {
+    "id": "decouvrez-la-team",
+    "title": "Découvrez l'équipe organisatrice du DevFest Toulouse.",
+    "posted": "2016-10-03",
+    "primaryColor": "#673AB7",
+    "secondaryColor": "#673AB7",
+    "image": "/images/posts/speakers.jpg",
+    "brief": "Enfin, voici la liste des speakers et des talks sélectionnés"
   }
 ]
