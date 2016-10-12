@@ -35,7 +35,7 @@ module.exports = {
           },
           {
             text: 'Kit Média',
-            url: '#',
+            url: 'https://drive.google.com/open?id=0B5KBA1bmsXepT0Y0VUZTclpSV00',
             newTab: true
           }
         ]
