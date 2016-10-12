@@ -116,7 +116,7 @@
     "title": "Grammar Nazi",
     "company": "Fungus",
     "country": "France",
-    "photoUrl": "http://s.gravatar.com/avatar/9eede8e58faffcb15bcb7c8f8a8dc007?s=80",
+    "photoUrl": "https://s.gravatar.com/avatar/9eede8e58faffcb15bcb7c8f8a8dc007?s=80",
     "bio": "Après avoir dirigé une équipe de R&D chez Fujitsu sur le thème du Grid computing j'ai décidé de devenir Freelance. Mon thème privilégié porte sur les systèmes et architectures distribuées en y intégrant la mobilité et la sécurité. Par ailleurs en tant qu'activiste open source je développe des librairies Java, Javascript, Python et Swift ainsi qu'un langage portant le doux nom de Thicket."
   },
   "13": {
@@ -136,7 +136,7 @@
     "title": "Indépendant",
     "company": "MethoTIC Conseil",
     "country": "France",
-    "photoUrl": "http://gravatar.com/avatar/b7f1da7c20c20b6aeb1eea0b9dc13f25?s=360",
+    "photoUrl": "https://gravatar.com/avatar/b7f1da7c20c20b6aeb1eea0b9dc13f25?s=360",
     "bio": "Consultant indépendant et formateur Angular. Google Developer Expert sur Angular depuis 2014."
   },
   "15": {
@@ -163,11 +163,11 @@
     "id": 17,
     "featured": false,
     "name": "Aurélie Vache",
-    "title": "Développeuse",
+    "title": "Lead Developer",
     "company": "ATCHIK",
     "country": "France",
-    "photoUrl": "http://scraly.com/images/aurelie_vache5.jpg",
-    "bio": "Développeuse Full-Stack depuis 10 ans­, Duchess France Leader."
+    "photoUrl": "https://pbs.twimg.com/profile_images/726148230224949249/g2T2qehD_400x400.jpg",
+    "bio": "Lead Developer, Développeuse Full-Stack depuis plus de 10 ans. Elle est également Duchess France Leader, marraine de la promo#2 de Simplon.co Tlse et rédactrice pour le magazine Programmez!."
   },
   "18": {
     "id": 18,
