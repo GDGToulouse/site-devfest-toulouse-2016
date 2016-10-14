@@ -1,12 +1,12 @@
 module.exports = {
   statistics: [{
-    counter: 250,
+    counter: 300,
     caption: 'Participants'
   }, {
     counter: 1,
     caption: 'Journée'
   }, {
-    counter: 20,
+    counter: 21,
     caption: 'Sessions'
   }, {
     counter: 3,
