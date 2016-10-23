@@ -269,7 +269,7 @@
   },
   "118": {
     "id": 118,
-    "title": "Les Acteurs, un modèle pour dompter le parrallélisme",
+    "title": "Les Acteurs, un modèle pour dompter le parallélisme",
     "language": "Français",
     "description": "La programmation de machines multi-cœur tiens souvent de l'exercice de style, voire même pour certains de la magie noire. Le modèle de programmation basé sur les Acteurs, apparu dans les années 70, se prête bien à résoudre ce problème. Il a prouvé son efficacité grâce au langage Erlang/OTP et contribue au succès du framework Akka. Je vous propose de faire un tour d'horizon du concept, de ces principes fondamentaux, de ces forces mais aussi de ces faiblesses.",
     "speakers": [18],
