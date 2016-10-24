@@ -208,5 +208,15 @@
     "country": "France",
     "photoUrl": "",
     "bio": ""
+  },
+  "22": {
+    "id": 22,
+    "featured": true,
+    "name": "Alex Danvy",
+    "title": "Technical Evangelist",
+    "company": "Microsoft",
+    "country": "France",
+    "photoUrl": "/images/people/AlexDanvy.jpg",
+    "bio": "Amoureux du code, addicte aux supers pouvoirs qu’il procure et fan de ceux qui tentent de le maitriser. Padawan à la formation inachevée, a plaisir à partager ses passions avec le plus grand nombre. Promoteur de l’Internet of Things, du Cloud, de la transformation numérique et bien-sûr du « code », entre autres."
   }
 }
