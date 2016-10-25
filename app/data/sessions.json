@@ -10,11 +10,13 @@
   "2": {
     "id": 2,
     "title": "Keynote d'ouverture : Évolution du métier de développeur ces dernières années.",
-    "description": "Lancement officiel de la conférence. Remerciements des organisateurs, des sponsors et partenaires.",
+    "description": "Lancement officiel de la conférence. Remerciements des organisateurs, des sponsors et partenaires.<br/>Puis Alex Danvy vous fera parcourir les évolutions du métiers de développeurs ces derniers années, pour comprendre pourquoi vous avez bien fait d'être là ce jour.",
     "language": "Français",
-    "complexity": "",
-    "presentation": "",
-    "videoId": ""
+    "speakers": [22],
+    "complexity": "Débutant",
+    "track": {
+      "title": "Grand Hall"
+    }
   },
   "3": {
     "id": 3,
