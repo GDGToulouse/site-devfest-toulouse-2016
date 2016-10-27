@@ -60,10 +60,13 @@
   },
   "1001": {
     "id": 1001,
-    "title": "Pas encore annoncé",
-    "description": "Une fois les résultats du CFP publics",
+    "title": "Data science in space",
+    "language": "Français",
+    "description": "Cloud, big data et machine learning, des buzzwords dont on entend beaucoup parler… mais quelles sont les réelles opportunités d’application ? Le traitement, l’analyse et la valorisation de données spatiales sont des points critiques pour le futur, les activités de notre Pôle Scientifique répondent à ces problématiques. Découvrez comment l’ensemble de ces outils accélèrent le segment spatial à travers notamment un usecase de monitoring de culture de riz sur la base de données Sentinel 1.",
+    "speakers": [23,24],
+    "complexity": "Confirmé",
     "tags": [
-      "Mobile"
+      "Web"
     ]
   },
   "1002": {

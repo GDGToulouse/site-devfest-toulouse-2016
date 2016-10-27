@@ -7,7 +7,10 @@
     "company": "Freelance",
     "country": "France",
     "photoUrl": "https://pbs.twimg.com/profile_images/3737974281/520e22f642d5820473b38eacc0177ed1.jpeg",
-    "bio": "Développeur Freelance sur Toulouse depuis 4 ans, je me spécialise dans l'UX, front ou mobile. Éclectique, chercheur au CNRS, en SSII ou dans l'équipe Android chez Google, j'ai toujours travaillé près et pour l'utilisateur."
+    "bio": "Développeur Freelance sur Toulouse depuis 4 ans, je me spécialise dans l'UX, front ou mobile. Éclectique, chercheur au CNRS, en SSII ou dans l'équipe Android chez Google, j'ai toujours travaillé près et pour l'utilisateur.",
+    "tags": [
+        "Angular", "React"
+    ]
   },
   "2": {
     "id": 2,
@@ -17,7 +20,10 @@
     "company": "DocDoku",
     "country": "France",
     "photoUrl": "https://pbs.twimg.com/profile_images/524173313816293376/MsIn-Hsu.jpeg",
-    "bio": "Développeuse / formatrice Android et iOS à DocDoku J'aime quand les choses sont naturelles et simples !"
+    "bio": "Développeuse / formatrice Android et iOS à DocDoku J'aime quand les choses sont naturelles et simples !",
+    "tags": [
+        "Android", "iOS"
+    ]
   },
   "3": {
     "id": 3,
@@ -27,7 +33,10 @@
     "company": "Sfeir",
     "country": "France",
     "photoUrl": "https://pbs.twimg.com/profile_images/768549574554312704/bZJdgS17_400x400.jpg",
-    "bio": "Cloud Rider / GDE @Google / VP Engineering @Sfeir / PhD Machine Learning @EnsDeLyon"
+    "bio": "Cloud Rider / GDE @Google / VP Engineering @Sfeir / PhD Machine Learning @EnsDeLyon",
+    "tags": [
+        "Cloud"
+    ]
   },
   "4": {
     "id": 4,
@@ -37,7 +46,10 @@
     "company": "Google",
     "country": "France",
     "photoUrl": "https://pbs.twimg.com/profile_images/734738205367472130/GeL6pDWb.jpg",
-    "bio": "Martin Gorner, Google Developer Relations. Martin se passionne pour la science, la technologie, l'informatique, les algorithmes et tout ce qui s'en rapproche. Après avoir obtenu son diplôme d'ingénieur à Mines Paris-Tech, Martin a commencé sa carrière dans le groupe \"computer architecture\" chez ST Microelectronics. Il a ensuite passé les 11 années suivantes dans le domaine naissant des livres électroniques, d'abord avec la start-up mobipocket.com, qui est ensuite devenue la partie logicielle du Kindle d'Amazon et ses versions mobiles. I a rejoint Google en 2011 et il s'y consacre aux sujets big data (Cloud Dataflow) et Machine Learning (Tensorflow)"
+    "bio": "Martin Gorner, Google Developer Relations. Martin se passionne pour la science, la technologie, l'informatique, les algorithmes et tout ce qui s'en rapproche. Après avoir obtenu son diplôme d'ingénieur à Mines Paris-Tech, Martin a commencé sa carrière dans le groupe \"computer architecture\" chez ST Microelectronics. Il a ensuite passé les 11 années suivantes dans le domaine naissant des livres électroniques, d'abord avec la start-up mobipocket.com, qui est ensuite devenue la partie logicielle du Kindle d'Amazon et ses versions mobiles. I a rejoint Google en 2011 et il s'y consacre aux sujets big data (Cloud Dataflow) et Machine Learning (Tensorflow)",
+    "tags": [
+        "Cloud"
+    ]
   },
   "5": {
     "id": 5,
@@ -47,7 +59,10 @@
     "company": "MapR",
     "country": "France",
     "photoUrl": "https://www.gravatar.com/avatar/6742510452dab26bba43130af24bb202?size=600",
-    "bio": "Tugdual Grall, est Chief Technical Evangelist EMEA chez MapR. Il travaille avec les clients et les communautés de développeurs européennes, pour faciliter l’adoption de MapR, Hadoop et NoSQL. Avant de travailler chez MapR, “Tug”, était Technical Evangelist chez MongoDB et Couchbase. Tug a travaillé comme CTO chez eXo Platform, et comme Product Manager et Développeur sur la platform Java/JavaEE d’Oracle. Tugdual est également co-fondateur du Nantes JUG (Java Users Group) qui réunit tous les mois depuis 2008 les développeurs et architectes de la région nantaise."
+    "bio": "Tugdual Grall, est Chief Technical Evangelist EMEA chez MapR. Il travaille avec les clients et les communautés de développeurs européennes, pour faciliter l’adoption de MapR, Hadoop et NoSQL. Avant de travailler chez MapR, “Tug”, était Technical Evangelist chez MongoDB et Couchbase. Tug a travaillé comme CTO chez eXo Platform, et comme Product Manager et Développeur sur la platform Java/JavaEE d’Oracle. Tugdual est également co-fondateur du Nantes JUG (Java Users Group) qui réunit tous les mois depuis 2008 les développeurs et architectes de la région nantaise.",
+    "tags": [
+        "Cloud"
+    ]
   },
   "6": {
     "id": 6,
@@ -57,7 +72,10 @@
     "company": "Alto Labs",
     "country": "France",
     "photoUrl": "https://lh6.googleusercontent.com/-DsgSFTFOLC8/AAAAAAAAAAI/AAAAAAAAA7A/3sgpLW1MMng/photo.jpg",
-    "bio": "Alain Regnier est Architecte Technique et Entrepreneur passionné d’innovation. Il a passé 10 ans dans la Silicon Valley, où il a travaillé pour des startups et des grosses sociétés et où il a notamment participé à la rédaction de plusieurs standards des Web Services et des Objets Connectés. Au sein d’Alto Labs, un Google Cloud Partner, il travaille en tant que consultant et développeur principalement autour du Cloud, des Applications Web et des Objets Connectés. Il accompagne également des startups dans le développement de prototypes/POCs techniques et en faisant le lien entre les fondateurs et les développeurs. Il est certifié Google Cloud Platform Qualified Systems Operations Professional. Il est aussi le co-fondateur du GDG Paris (Google Developer Group), du GDG Cloud Paris et de StartupVillage (http://www.startupvillage.fr)"
+    "bio": "Alain Regnier est Architecte Technique et Entrepreneur passionné d’innovation. Il a passé 10 ans dans la Silicon Valley, où il a travaillé pour des startups et des grosses sociétés et où il a notamment participé à la rédaction de plusieurs standards des Web Services et des Objets Connectés. Au sein d’Alto Labs, un Google Cloud Partner, il travaille en tant que consultant et développeur principalement autour du Cloud, des Applications Web et des Objets Connectés. Il accompagne également des startups dans le développement de prototypes/POCs techniques et en faisant le lien entre les fondateurs et les développeurs. Il est certifié Google Cloud Platform Qualified Systems Operations Professional. Il est aussi le co-fondateur du GDG Paris (Google Developer Group), du GDG Cloud Paris et de StartupVillage (http://www.startupvillage.fr)",
+    "tags": [
+        "Cloud"
+    ]
   },
   "7": {
     "id": 7,
@@ -67,7 +85,10 @@
     "company": "Progress",
     "country": "United Kingdoms",
     "photoUrl": "https://pbs.twimg.com/profile_images/752636760245534720/aWQ8XKJD.jpg",
-    "bio": "Sebastian Witalec is a Technical Evangelist for Telerik with over 8 years of experience in software engineering and architecture. Sebastian has passion for all types of technologies. However in the last few years his focus shifted towards cross platform Mobile development where he gained experience with Apache Cordova and NativeScript. He is always happy to learn about the new stuff and to pass the knowledge as far as his voice (or the wire) can take him. Sebastian is based in London, UK actively working with various Dev communities in the area. When not acting techie he is a massive football fan/player (probably bigger at heart than skills)."
+    "bio": "Sebastian Witalec is a Technical Evangelist for Telerik with over 8 years of experience in software engineering and architecture. Sebastian has passion for all types of technologies. However in the last few years his focus shifted towards cross platform Mobile development where he gained experience with Apache Cordova and NativeScript. He is always happy to learn about the new stuff and to pass the knowledge as far as his voice (or the wire) can take him. Sebastian is based in London, UK actively working with various Dev communities in the area. When not acting techie he is a massive football fan/player (probably bigger at heart than skills).",
+    "tags": [
+        "Cloud"
+    ]
   },
   "8": {
     "id": 8,
@@ -77,7 +98,10 @@
     "company": "JustAnswer.com",
     "country": "Ukraine",
     "photoUrl": "https://devfest.gdg.org.ua/images/people/sofiya_huts.jpg",
-    "bio": "Sofia is a manager of <a href=\"http://lviv.gdg.org.ua/\">GDG Lviv</a> and also leads local WTM <a href=\"https://www.womentechmakers.com/\">Women Techmakers</a> community in Lviv. Additionally, one of the organisers of <a href=\"https://devfest.gdg.org.ua/\">GDG DevFest Ukraine</a>. Despite that fact that Sofia has been working as the Full-stack.Net developer during last two years, she is passionate about front-end stuff, especially everything related to Progressive Web Apps and developing a fancy web application using Polymer."
+    "bio": "Sofia is a manager of <a href=\"http://lviv.gdg.org.ua/\">GDG Lviv</a> and also leads local WTM <a href=\"https://www.womentechmakers.com/\">Women Techmakers</a> community in Lviv. Additionally, one of the organisers of <a href=\"https://devfest.gdg.org.ua/\">GDG DevFest Ukraine</a>. Despite that fact that Sofia has been working as the Full-stack.Net developer during last two years, she is passionate about front-end stuff, especially everything related to Progressive Web Apps and developing a fancy web application using Polymer.",
+    "tags": [
+        "Polymer"
+    ]
   },
   "9": {
     "id": 9,
@@ -87,7 +111,10 @@
     "company": "Google",
     "country": "France",
     "photoUrl": "https://pbs.twimg.com/profile_images/459265225221353473/xilGJIvG.jpeg",
-    "bio": "My day to day my mission is to help developers create successful and quality apps. As a passionate web developer, I am always discovering and playing with new web technologies !"
+    "bio": "My day to day my mission is to help developers create successful and quality apps. As a passionate web developer, I am always discovering and playing with new web technologies !",
+    "tags": [
+        "Progressive Web Apps"
+    ]
   },
   "10": {
     "id": 10,
@@ -97,7 +124,10 @@
     "company": "Webedia",
     "country": "France",
     "photoUrl": "https://fr.gravatar.com/userimage/78986938/97aeae8024e855861143722ca85cd7fc.jpg?size=500",
-    "bio": "Père d'une petite fille qui me laisse du temps le soir pour faire de la veille, des apps Android et de l'escalade ! Sinon la journée je suis développeur Android et UX addict chez Webedia (Allociné, Allociné Home, JeuxVideo, 750g, PurePeople, Overblog, ...)"
+    "bio": "Père d'une petite fille qui me laisse du temps le soir pour faire de la veille, des apps Android et de l'escalade ! Sinon la journée je suis développeur Android et UX addict chez Webedia (Allociné, Allociné Home, JeuxVideo, 750g, PurePeople, Overblog, ...)",
+    "tags": [
+        "Android"
+    ]
   },
   "11": {
     "id": 11,
@@ -107,7 +137,10 @@
     "company": "ekito",
     "country": "France",
     "photoUrl": "https://www.ekito.fr/people/wp-content/uploads/userphoto/3.png",
-    "bio": "Développeur & Consultant en développement java. J'interviens sur les architectures distribuées, les infrastructures et les solutions cloud (devops, base de données ...). Je suis développeur android depuis quelques années et je m'intéresse aux nouveaux langages comme Kotlin ou Go et aux nouveaux paradigmes comme la programmation fonctionnelle, développement applications réactives ..."
+    "bio": "Développeur & Consultant en développement java. J'interviens sur les architectures distribuées, les infrastructures et les solutions cloud (devops, base de données ...). Je suis développeur android depuis quelques années et je m'intéresse aux nouveaux langages comme Kotlin ou Go et aux nouveaux paradigmes comme la programmation fonctionnelle, développement applications réactives ...",
+    "tags": [
+        "Android"
+    ]
   },
   "12": {
     "id": 12,
@@ -117,7 +150,10 @@
     "company": "Fungus",
     "country": "France",
     "photoUrl": "https://s.gravatar.com/avatar/9eede8e58faffcb15bcb7c8f8a8dc007?s=80",
-    "bio": "Après avoir dirigé une équipe de R&D chez Fujitsu sur le thème du Grid computing j'ai décidé de devenir Freelance. Mon thème privilégié porte sur les systèmes et architectures distribuées en y intégrant la mobilité et la sécurité. Par ailleurs en tant qu'activiste open source je développe des librairies Java, Javascript, Python et Swift ainsi qu'un langage portant le doux nom de Thicket."
+    "bio": "Après avoir dirigé une équipe de R&D chez Fujitsu sur le thème du Grid computing j'ai décidé de devenir Freelance. Mon thème privilégié porte sur les systèmes et architectures distribuées en y intégrant la mobilité et la sécurité. Par ailleurs en tant qu'activiste open source je développe des librairies Java, Javascript, Python et Swift ainsi qu'un langage portant le doux nom de Thicket.",
+    "tags": [
+        "Swift"
+    ]
   },
   "13": {
     "id": 13,
@@ -127,7 +163,10 @@
     "company": "Emotic",
     "country": "France",
     "photoUrl": "https://pbs.twimg.com/profile_images/679084020362305536/h-OkGRXd_400x400.png",
-    "bio": "Olivier Guillet développe depuis plus de 15 ans : jeux vidéos, sites internet ou applications mobiles, le plus souvent sur des technologies web. Egalement passionné de réalité virtuelle, réalité augmentée et innovations en tout genres, aux frontières de l'informatique et du cyberpunk."
+    "bio": "Olivier Guillet développe depuis plus de 15 ans : jeux vidéos, sites internet ou applications mobiles, le plus souvent sur des technologies web. Egalement passionné de réalité virtuelle, réalité augmentée et innovations en tout genres, aux frontières de l'informatique et du cyberpunk.",
+    "tags": [
+        "Virtual Reality"
+    ]
   },
   "14": {
     "id": 14,
@@ -137,7 +176,10 @@
     "company": "MethoTIC Conseil",
     "country": "France",
     "photoUrl": "https://gravatar.com/avatar/b7f1da7c20c20b6aeb1eea0b9dc13f25?s=360",
-    "bio": "Consultant indépendant et formateur Angular. Google Developer Expert sur Angular depuis 2014."
+    "bio": "Consultant indépendant et formateur Angular. Google Developer Expert sur Angular depuis 2014.",
+    "tags": [
+        "Angular"
+    ]
   },
   "15": {
     "id": 15,
@@ -147,7 +189,10 @@
     "company": "Crafting Labs",
     "country": "France",
     "photoUrl": "https://pbs.twimg.com/profile_images/378800000410578599/f46ba12e144dfa139fab3038f2bbf5dc.jpeg",
-    "bio": "Freelance - Software Anarchist / Common Sense Consultant"
+    "bio": "Freelance - Software Anarchist / Common Sense Consultant",
+    "tags": [
+        "Software Craftsmanship"
+    ]
   },
   "16": {
     "id": 16,
@@ -157,7 +202,10 @@
     "company": "",
     "country": "France",
     "photoUrl": "https://scontent-ams3-1.xx.fbcdn.net/t31.0-8/14379846_1055460101189789_6589177864674020639_o.jpg",
-    "bio": "Diplômé d'informatique embarqué, par le hasard des choses je me suis retrouvé dans l'univers du Cloud."
+    "bio": "Diplômé d'informatique embarqué, par le hasard des choses je me suis retrouvé dans l'univers du Cloud.",
+    "tags": [
+        "Geek"
+    ]
   },
   "17": {
     "id": 17,
@@ -167,7 +215,10 @@
     "company": "ATCHIK",
     "country": "France",
     "photoUrl": "https://pbs.twimg.com/profile_images/726148230224949249/g2T2qehD_400x400.jpg",
-    "bio": "Lead Developer, Développeuse Full-Stack depuis plus de 10 ans. Elle est également Duchess France Leader, marraine de la promo#2 de Simplon.co Tlse et rédactrice pour le magazine Programmez!."
+    "bio": "Lead Developer, Développeuse Full-Stack depuis plus de 10 ans. Elle est également Duchess France Leader, marraine de la promo#2 de Simplon.co Tlse et rédactrice pour le magazine Programmez!.",
+    "tags": [
+        "Duchesse"
+    ]
   },
   "18": {
     "id": 18,
@@ -177,7 +228,10 @@
     "company": "",
     "country": "France",
     "photoUrl": "https://pbs.twimg.com/profile_images/584007148851564545/2j5Cfo1c.png",
-    "bio": "Développeur, tendance «software craftsman». Depuis longtemps attiré par les langages et leur mise en œuvre. Grand amateur de programmation fonctionnelle, même quand ce n'était pas encore cool. Curieux des systèmes, surtout s'ils sont distribués."
+    "bio": "Développeur, tendance «software craftsman». Depuis longtemps attiré par les langages et leur mise en œuvre. Grand amateur de programmation fonctionnelle, même quand ce n'était pas encore cool. Curieux des systèmes, surtout s'ils sont distribués.",
+    "tags": [
+        "Software Craftsmanship"
+    ]
   },
   "19": {
     "id": 19,
@@ -187,7 +241,10 @@
     "company": "MonkeyPatch",
     "country": "France",
     "photoUrl": "https://pbs.twimg.com/profile_images/3404066863/94e02f3bca9b038c4546f4e42ed05bc6.jpeg",
-    "bio": "Développeur passionné depuis 15 ans. Expert dans les technos Java et Web. Je participe souvent et anime (parfois) des rdv techniques au travers de ma société ou dans des meeting comme le Toulouse JUG, Software Craftsmanship Toulouse."
+    "bio": "Développeur passionné depuis 15 ans. Expert dans les technos Java et Web. Je participe souvent et anime (parfois) des rdv techniques au travers de ma société ou dans des meeting comme le Toulouse JUG, Software Craftsmanship Toulouse.",
+    "tags": [
+        "Java"
+    ]
   },
   "20": {
     "id": 20,
@@ -197,17 +254,10 @@
     "company": "Tabmo",
     "country": "France",
     "photoUrl": "https://lh6.googleusercontent.com/-RvGrfi4p_Uk/AAAAAAAAAAI/AAAAAAAAAeA/laex6frLlLc/photo.jpg?sz=360",
-    "bio": "Devops la journée, JUG Leader le soir sur Montpellier, j'aime parler et discuter de developpements et surtout de Docker. Ancien développeur (Java/Clojure/Python) et gestionnaire de build, j'ai passé le cap vers le Devops et me focus notamment Docker sur lequel j'aime tester de nouvelles choses et mettre en place des services pour les équipes avec lesquelles je travaille."
-  },
-  "21": {
-    "id": 21,
-    "featured": false,
-    "name": "Slot Sponsors",
-    "title": "Slot Sponsors",
-    "company": "Capgemini",
-    "country": "France",
-    "photoUrl": "",
-    "bio": ""
+    "bio": "Devops la journée, JUG Leader le soir sur Montpellier, j'aime parler et discuter de developpements et surtout de Docker. Ancien développeur (Java/Clojure/Python) et gestionnaire de build, j'ai passé le cap vers le Devops et me focus notamment Docker sur lequel j'aime tester de nouvelles choses et mettre en place des services pour les équipes avec lesquelles je travaille.",
+    "tags": [
+        "Docker"
+    ]
   },
   "22": {
     "id": 22,
@@ -217,6 +267,35 @@
     "company": "Microsoft",
     "country": "France",
     "photoUrl": "/images/people/AlexDanvy.jpg",
-    "bio": "Amoureux du code, addicte aux supers pouvoirs qu’il procure et fan de ceux qui tentent de le maitriser. Padawan à la formation inachevée, a plaisir à partager ses passions avec le plus grand nombre. Promoteur de l’Internet of Things, du Cloud, de la transformation numérique et bien-sûr du « code », entre autres."
+    "bio": "Amoureux du code, addicte aux supers pouvoirs qu’il procure et fan de ceux qui tentent de le maitriser. Padawan à la formation inachevée, a plaisir à partager ses passions avec le plus grand nombre. Promoteur de l’Internet of Things, du Cloud, de la transformation numérique et bien-sûr du « code », entre autres.",
+    "tags": [
+        "Code Lover"
+    ]
+  },
+  "23": {
+    "id": 23,
+    "featured": false,
+    "name": "Cédric Cormont",
+    "title": "Architecte - Expert Big Data",
+    "company": "Capgemini",
+    "country": "France",
+    "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/00f/0ce/0af9320.jpg",
+    "bio": "Cédric has been developing and managing software development projects and organizations for 8 years before switching to technical and management consulting for Capgemini BTech (Business & Technology) in 2008. Cedric is specialized in data integration architectures and is is Head of CoE Big Data & Analytics for Digital Transformation",
+    "tags": [
+        "Big data"
+    ]
+  },
+  "24": {
+    "id": 24,
+    "featured": false,
+    "name": "Delphine Nobileau",
+    "title": "Consultante Pôle Scientifique",
+    "company": "Capgemini",
+    "country": "France",
+    "photoUrl": "https://media.licdn.com/media/p/8/000/249/054/28ea3f6.jpg",
+    "bio": "12 ans d'expérience en développement d'algorithmes scientifiques et en traitement d'image appliqué à l'observation de la Terre ainsi que de la gestion de projet et d'équipe.",
+    "tags": [
+        "Big Data"
+    ]
   }
 }
