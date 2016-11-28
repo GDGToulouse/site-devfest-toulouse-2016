@@ -1,10 +1,10 @@
-Le [DevFest](https://devfesttoulouse.fr) est terminé et vous avez repris le cours normal de votre vie de développeur. Vous avez voulu dans un élan de motivation de "clean code", améliorer les process de votre team. En vain. Vos anciennces habitudes ont déjà repris le dessus, et vous avez même perdu votre super sticker DevFest ! 
+Le [DevFest](https://devfesttoulouse.fr) est terminé et vous avez repris le cours normal de votre vie de développeur. Dès le lendemain vous avez voulun dans un élan de motivation de "clean code", améliorer les process de votre team. En vain. Vos anciennces habitudes ont déjà repris le dessus, et vous avez même perdu votre super sticker DevFest ! 
 
 Allez, nous allons passer la journée en revue et vous mettre les liens de toutes les ressources de la journée (slides, photos...). Si vous avez raté l'évènement, vous êtes au bon endroit !
 
 ![DevFest Toulouse](/images/posts/2016-11/cover.png)
 
-L'ensemble des photos a été partagé via [cet album](https://goo.gl/photos/m8aq5fLCNfP37o889).
+L'ensemble des photos a été partagé via [cet album](https://goo.gl/photos/m8aq5fLCNfP37o889). Si vous en avez encore sous le coude (ou dans votre appareil photo), vous pouvez encore les partager avec nous.
 ![Bienvenu](https://lh3.googleusercontent.com/OqUe239OzgkWSeTjuRacomCxOLf6zbYTUhTkjgPoMa01Uo8RIoKH1cg3Q3MJ1Athk6Axh5hGubI72W-Ptx37_pBFR6kzAuwUE4EZUu_yZ_oTvLzTHknXBJi2hyDRk795Pg2Uzf2UJmmE-Kvn9_C392yzug6rR3KUBeyu4fAeKS2rykrRLhFvSJkpAbD2ZSL5ZS_LDV3hqqYpHM9pV75xi8CUXEbgvBgM4YH-tLRAnFFTXkO_W0yCTgsYMOe4RDkdiLU9zHZuQxDtMZXGGbP9thO2p4kpLfNi1QQ5gsC8sCOgk2KCbX36GUCC_Vr9mrBQoRPEgmotIDuc-yRehCzPOHrPz2lCegP2Fi5fEQfqGLp9Td9r7KnfgoqnihCUk2B-1fvvviJunDfaJ2NjgUsYoYuWvD8YHCw9JVdBzsOJee_zRx6_S1Jxq5EFlYVVbyl14z5zS-0ISX_fBpdd8jyesXHqn5LUmbkjUqbEeKEfRC6tMjdgSVzrVsn-EeNfgRtMcEDY8XZqWY2qdvPjK9T2btHuScGJaYblZ7ht5tKWE6Mp8kT-sFVFReIpHuhbtfsXrshDpqq2HCZVANS9Xrvvh-DswyG7o_EUmb5ma6TXXMVyWYFHpg=w1268-h952-no)
 
 
@@ -13,6 +13,7 @@ L'ensemble des photos a été partagé via [cet album](https://goo.gl/photos/m8a
 La journée a commencé par une keynote d'Alex Danvy qui nous a invité à prendre du recul sur notre métier de développeur.
 [Les slides d'Alex Danvy](https://t.co/qRgw46a8rG)
 ![Keynote](/images/posts/2016-11/keynote.jpg)
+
 
 La suite de la journée s'est décomposée selon 4 tracks de talks répartis dans les 3 amphis de l'IUT de Blagnac :  
 * Web
@@ -104,10 +105,12 @@ La suite de la journée s'est décomposée selon 4 tracks de talks répartis dan
 ![Photo talk](/images/posts/2016-11/7.3.jpg)
 
 
-La journée s'est terminée dans un bar du centre-ville de Toulouse où les échanges ont pu se prolonger autour de tapas et de bières ! Que demande le peuple !
+La journée s'est terminée dans un bar du centre-ville de Toulouse (le Bistrologue) où les échanges ont pu se prolonger autour de tapas et de bières ! Que demande le peuple !
 
 
-Merci à tous pour cette édition et à l'année prochaine.
+Au fait, on a [un compte Twitter dédié au DevFest](https://twitter.com/DevFestToulouse). Nous avons commencé à faire passer des infos. Vous avez des idées de lieux pour 450 personnes ? 
+
+Merci à tous pour cette édition et à l'année prochaine. 
 ![Merci](/images/posts/2016-11/merci.jpg)
 
 
