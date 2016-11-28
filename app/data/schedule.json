@@ -9,38 +9,46 @@
         "title": "Amphi 3"
     }],
     "timeslots": [{
-        "startTime": "09:00",
-        "endTime": "10:00",
+        "startTime": "08:00",
+        "endTime": "9:00",
         "sessions": [
             [1]
+        ]
+    }, {
+        "startTime": "9:00",
+        "endTime": "9:45",
+        "sessions": [
+            [2]
+        ]
+    }, {
+        "startTime": "9:45",
+        "endTime": "10:00",
+        "sessions": [
+            [3]
         ]
     }, {
         "startTime": "10:00",
         "endTime": "10:45",
         "sessions": [
-            [2]
-        ]
-    }, {
-        "startTime": "10:45",
-        "endTime": "11:00",
-        "sessions": [
-            [3]
-        ]
-    }, {
-        "startTime": "11:00",
-        "endTime": "11:40",
-        "sessions": [
             [101],
-            [102],
-            [103]
+            [111],
+            [115]
         ]
     }, {
-        "startTime": "11:50",
-        "endTime": "12:30",
+        "startTime": "10:50",
+        "endTime": "11:35",
         "sessions": [
-            [104],
-            [105],
-            [106]
+            [107],
+            [113],
+            [117]
+        ]
+    }, {
+        "startTime": "11:40",
+        "endTime": "12:25",
+        "sessions": [
+            [103],
+            [109],
+            [119]
         ]
     }, {
         "startTime": "12:30",
@@ -50,45 +58,51 @@
         ]
     }, {
         "startTime": "14:00",
-        "endTime": "14:40",
+        "endTime": "14:45",
         "sessions": [
-            [1001],
-            [107],
-            [1003]
+            [108],
+            [110],
+            [118]
         ]
     }, {
         "startTime": "14:50",
-        "endTime": "15:30",
+        "endTime": "15:35",
         "sessions": [
-            [1001],
-            [1002],
-            [1003]
+            [104],
+            [114],
+            [120]
         ]
     }, {
-        "startTime": "15:30",
+        "startTime": "15:35",
         "endTime": "16:00",
         "sessions": [
             [5]
         ]
     }, {
         "startTime": "16:00",
-        "endTime": "16:40",
+        "endTime": "16:45",
         "sessions": [
-            [1001],
-            [1002],
-            [1003]
+            [105],
+            [102],
+            [121]
         ]
     }, {
         "startTime": "16:50",
-        "endTime": "17:30",
+        "endTime": "17:35",
         "sessions": [
-            [1001],
-            [1002],
-            [1003]
+            [106],
+            [112],
+            [116]
         ]
     }, {
-        "startTime": "22:00",
-        "endTime": "02:00",
+        "startTime": "17:45",
+        "endTime": "18:00",
+        "sessions": [
+            [7]
+        ]
+    }, {
+        "startTime": "18:30",
+        "endTime": "22:00",
         "sessions": [
             [6]
         ]
