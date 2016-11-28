@@ -14,9 +14,10 @@ La journée a commencé par une keynote d'Alex Danvy qui nous a invité à prend
 [Les slides d'Alex Danvy](https://t.co/qRgw46a8rG)
 ![Keynote](/images/posts/2016-11/keynote.jpg)
 
-La suite de la journée s'est décomposée selon 3 tracks de talks répartis dans les 3 amphis de l'IUT de Blagnac :  
+La suite de la journée s'est décomposée selon 4 tracks de talks répartis dans les 3 amphis de l'IUT de Blagnac :  
 * Web
 * Mobile
+* Cloud Data
 * Méthodes et Outils
 
 
@@ -33,7 +34,7 @@ La suite de la journée s'est décomposée selon 3 tracks de talks répartis dan
 ![Photo talk](/images/posts/2016-11/1.3.jpg)
 
 
-# Talks 2 - 10h50-11h35
+## Talks 2 - 10h50-11h35
 * Sharing Code Between Web and Native Apps - Sebastian Witalec
 	* [Les slides](https://drive.google.com/file/d/0B4BcydrYoAJFZmV5WnpXVzZRak0/view)
 ![Photo talk](/images/posts/2016-11/2.1.jpg)
@@ -45,7 +46,7 @@ La suite de la journée s'est décomposée selon 3 tracks de talks répartis dan
 ![Photo talk](/images/posts/2016-11/2.3.jpg)
 
 
-# Talks 3 - 11h40-12h25
+## Talks 3 - 11h40-12h25
 * Cloud Analytics : de 0 à 100000 Evénements par seconde en 50' - Didier Girard
 	* [Les slides](https://docs.google.com/presentation/d/1avSiNG-HKXGUgPKQ1jX2xn10vll-i0ovGPkzrJr6mVs/edit#slide=id.g117d333396_0_163)
 ![Photo talk](/images/posts/2016-11/3.1.jpg)
@@ -57,7 +58,7 @@ La suite de la journée s'est décomposée selon 3 tracks de talks répartis dan
 ![Photo talk](/images/posts/2016-11/3.3.jpg)
 
 
-# Talks 4 - 14h00-14h45
+## Talks 4 - 14h00-14h45
 * Wanna more fire? - Let's try polymerfire! - Sofiya Huts	
 	* [Les slides](https://drive.google.com/open?id=0BxVrjMGUgQYETWRYcXBBY2ZreTg)
 ![Photo talk](/images/posts/2016-11/4.1.jpg)
@@ -69,7 +70,7 @@ La suite de la journée s'est décomposée selon 3 tracks de talks répartis dan
 ![Photo talk](/images/posts/2016-11/4.3.jpg)
 
 
-# Talks 5 - 14h50-15h35
+## Talks 5 - 14h50-15h35
 * Tensorflow et l’apprentissage profond, sans les équations différentielles - Martin Gorner
 	* [Les slides](https://t.co/yn0fdgXIYM)
 ![Photo talk](/images/posts/2016-11/5.1.jpg)
@@ -81,7 +82,7 @@ La suite de la journée s'est décomposée selon 3 tracks de talks répartis dan
 ![Photo talk](/images/posts/2016-11/5.3.jpg)
 
 
-# Talks 6 - 16h00-16h45
+## Talks 6 - 16h00-16h45
 * Fast Cars, Big Data - Ou comment le streaming peut aider la Formule 1! - Tugdual Grall 
 	* [Les slides](https://speakerdeck.com/tgrall/fast-cars-big-data-how-streaming-can-help-formula-1)
 ![Photo talk](/images/posts/2016-11/6.1.jpg)
@@ -92,7 +93,7 @@ La suite de la journée s'est décomposée selon 3 tracks de talks répartis dan
 ![Photo talk](/images/posts/2016-11/6.3.jpg)
 
 
-# Talks 7 - 16h50-17h35
+## Talks 7 - 16h50-17h35
 * 20 cool things about Google Cloud Platform - Alain Regnier	
 ![Photo talk](/images/posts/2016-11/7.1.jpg)
 * De Java à Swift en deux temps trois mouvements - Didier Plaindoux
