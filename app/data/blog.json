@@ -52,5 +52,32 @@
     "secondaryColor": "#673AB7",
     "image": "/images/posts/speakers.jpg",
     "brief": "Enfin, voici la liste des speakers et des talks sélectionnés"
+  },
+  {
+    "id": "resume-programme",
+    "title": "Résumé du programme passé.",
+    "posted": "2016-11-28",
+    "primaryColor": "#673AB7",
+    "secondaryColor": "#673AB7",
+    "image": "/images/posts/programme.jpg",
+    "brief": "Passage en revue de la journée."
+  },
+  {
+    "id": "team",
+    "title": "L'équipe d'organisation du DevFest 2016.",
+    "posted": "2016-11-28",
+    "primaryColor": "#673AB7",
+    "secondaryColor": "#673AB7",
+    "image": "/images/posts/team.jpg",
+    "brief": "C'est à cause de nous..."
+  },
+  {
+    "id": "merci",
+    "title": "Message de remerciement.",
+    "posted": "2016-11-28",
+    "primaryColor": "#673AB7",
+    "secondaryColor": "#673AB7",
+    "image": "/images/posts/merci.jpg",
+    "brief": "Pour les participants, les sponsors, tout le monde en fait."
   }
 ]
