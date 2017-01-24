@@ -1,4 +1,4 @@
-Le [DevFest](https://devfesttoulouse.fr) est terminé et vous avez repris le cours normal de votre vie de développeur. Dès le lendemain vous avez voulun dans un élan de motivation de "clean code", améliorer les process de votre team. En vain. Vos anciennces habitudes ont déjà repris le dessus, et vous avez même perdu votre super sticker DevFest ! 
+Le [DevFest](https://devfesttoulouse.fr) est terminé et vous avez repris le cours normal de votre vie de développeur. Dès le lendemain vous avez voulu dans un élan de motivation de "clean code", améliorer les process de votre team. En vain. Vos anciennces habitudes ont déjà repris le dessus, et vous avez même perdu votre super sticker DevFest ! 
 
 Allez, nous allons passer la journée en revue et vous mettre les liens de toutes les ressources de la journée (slides, photos...). Si vous avez raté l'évènement, vous êtes au bon endroit !
 
