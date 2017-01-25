@@ -66,6 +66,7 @@
     "deploy:stag": "gulp deploy:stag",
     "check:ver": "ncu && ncu -m bower",
     "init": "gulp init",
+    "build": "gulp",
     "gulp": "gulp",
     "install:all": "npm install && bower install",
     "install:complete": "sudo npm install -g npm && sudo npm install -g bower gulp && npm install && bower install",

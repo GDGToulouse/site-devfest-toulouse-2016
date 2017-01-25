@@ -1,0 +1,34 @@
+{
+  "name": "start-google-analytics-tracker",
+  "version": "1.1.0",
+  "homepage": "https://github.com/StartPolymer/start-google-analytics-tracker",
+  "authors": [
+    "Start Polymer",
+    "Matthew Lawson <mattlaw1@gmail.com>"
+  ],
+  "description": "Polymer Element for Google Analytics Web Tracking, supports page and event tracking.",
+  "main": "start-google-analytics-tracker.html",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "start-polymer",
+    "element",
+    "google-analytics"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/StartPolymer/start-google-analytics-tracker.git"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "iron-signals": "PolymerElements/iron-signals#^1.0.2"
+  }
+}

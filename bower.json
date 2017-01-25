@@ -11,7 +11,6 @@
     "platinum-elements": "PolymerElements/platinum-elements#2.0.x",
     "neon-elements": "PolymerElements/neon-elements#1.0.x",
     "neon-animation": "PolymerElements/neon-animation#1.2.4",
-    "start-elements": "StartPolymer/start-elements#1.1.x",
     "molecules": "PolymerElements/molecules#1.0.x",
     "google-web-components": "GoogleWebComponents/google-web-components#1.0.x",
     "font-roboto": "StartPolymer/font-empty#1.1.x",
@@ -24,6 +23,7 @@
   },
   "ignore": [],
   "resolutions": {
-    "polymer": "^1.1.0"
+    "polymer": "^1.1.0",
+    "iron-selector": "1.2.x"
   }
 }
