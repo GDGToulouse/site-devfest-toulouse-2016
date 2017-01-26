@@ -1,14 +1,15 @@
 language: node_js
 node_js:
-  - "6"
-
+- '6'
 before_script:
-  - npm install -g --quiet firebase-tools
-  - npm run install:all
-
-script:   
-  - npm run init
-  - npm run build  
-
+- npm install -g --quiet firebase-tools
+- npm run install:all
+script:
+- npm run init
+- npm run build
 after_success:
-  - echo 'deploy !!'
+- npm run deploy:prod
+
+env:
+  global:
+    secure: JuqmkLZS14gNVLK53V6tdhoqnGupSFNKVQ/FW30x/IfB8Edip69KaV8rxudCoq8EEfjeFiTfNesro5J72ydfDENC8/bbUCMHuyYBei4NQClkVUsRLMGpkO9jW1VrmKp83H2qSTXNsawiGGMsQFgS98P2Hy96P28SSPKO6XFWohsIgj8x9IwemyRCMAItKk8FQGVmP2ILfrfNANSRiiFwpxxL7Y/kek39f38fGJHdr+s6gwQOUROsXdhUN3OBLDktUvTkDDxXecZOpm5/JwEQeXObMda/1B2twhx4Vs3Lovyflv7BlVzOBw2WYEtcqUAM66h9cbrajWDktyo5l7UqD/f02jaxcszLVdjEeo3biR62//knADByOtuVzgo6V+GVa8rPjRS2j4eQVCOYzyapQlGWGNrBuabwjNptZ9MTmsl+Z760ZQ2uENCkdk6zaegoVSKwD9ZnungzVR9LkVhXP0O17/Bn9OTuPKIBJTZY0A3VzSUqae1XiDEohy2YD2Ld/WYJCpvwHqMYRnBQmoT16Ol9qhMzVrBudXojPw8rhE9Xlj3s3CjSsgPJwDW1IR+UqpbklpocoUlAOwR6GnyV7S1MsTBnDlwVMpDZA/J4fSL1UJCE8/NBlbN2cCiozx2CxJkPx04I+KChXYi3SqxbbLy9m6IsgQc5S1twTN7IvyU=
