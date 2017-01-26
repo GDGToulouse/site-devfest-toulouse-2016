@@ -1,26 +1,22 @@
 language: node_js
-sudo: false
-addons:
-  firefox: latest
-  apt:
-    sources:
-      - google-chrome
-      - ubuntu-toolchain-r-test
-    packages:
-      - google-chrome-stable
-      - g++-4.8
 node_js:
-  - '4.2'
-  - '5.1'
+- '6'
+
 before_script:
-  - 'export DISPLAY=:99.0'
-  - sh -e /etc/init.d/xvfb start
-  - sleep 3
-  - npm i -g bower@1.7.1 gulp@3.9.0 firebase-tools@2.2.0
-  - bower i
+- npm install -g --quiet firebase-tools
+- npm run install:all
+
 script:
-  - ./travis-runner.sh
+- npm run init
+- npm run build
+
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: npm run deploy:prod
+  on:
+    branch: master
+
 env:
   global:
-    - "CXX='g++-4.8'"
-    - secure: SbcQ7plU7aRGQlaAG2ffMhSvEs84073YSljOQ62DZAjRxgizMhF4xM7H2mPrmac9YRM4IBrQRvBKMMZy3L6OhN8gwpm8o+w2zV+5Q1fwpY9V8bilznnhp1JUY6jrB2l7aLTOFxt/cG+5ABxiupwWz/n+I7BaByYhBiHWntIBgDc528eecRNDYI5R36KWjLO/yr+SdElvyxDlDOdJGaluPvgMItbinFGcE1hYb/Jqrkkw8zpE6CTDmvMOq1aRBWSo9afgh2zDeKc02lTYP/4N0xcn8CqzHF7k5zGWHjN9DR8Ep8Bp1ff/sM7zHGZBqgVhn5WGv305jBQY6eOxiTp5cDP0WVIOjgJeM5rBu9hBQxhZSaMKBPr2B1NYUjIwTVQkBsnR4sr095Ugjg8JCZAmEevf/Ysl4CzQyW3gT+WcEluqjxUuicQWDclH6L/kOVPBJ+Eqdo/LY3G1tpLcc6fsvj4FlVO6LPTrbMyCagwQvnjX3uIdFyuthqtWWrHKQMGx2Ow9suNUi8Hyvk7WboS1Z6jrLIcs1rvXSX8rQmlMR5vJBK3Ejg6fS1OHxn/lrtLhj4lDLB9r/Fcu2PEHT1lcvQqsTa3W+t4Fk1qaShUlBDiwMbZWZgmlf1SdG5OzK1yrPLjTTdRFdqJGgb6TANCdetgczRWynvjIhr5IDMxvfJg=
+  - secure: csJtgSP1VwE13NWBNpLFsX7QaX9CKVEUq+IPUQ8RVB/wVkHu3hxN8swrc+aT6Mv8m6tVF0NEJtWoifDmmFY7D2DemsGBpbUlvAbCzh+rVn8KFOdGpYXbk5JDEFbubpopApdsNg/wYBoAtI868eBsjHkosA5xupBcKxQr80PQnDFlyZajQdYZHv8WP91auOQjjI33YW9uc2uWssD04rOcdgqQlCCB6bhUFxb+gXQSJ049zw3dKgEvQJCmvKtjzv9r52dL3CTiRBQ50b65+3CM1rCKmZy7TbqOJ3xEnmaUWqJfTrpyFT0Av8hMaPZMcck+kWViU1EPTR7NCkVKGHU6mMQfvGuCwihS1F2jjd07dH37zijFScr56LI7LaNuGjifkI3WMpI76FfxCmBpgyV7dIs5dBK09Xkr6aM82+nYnponu5G1axbT6Qo20vTrz7/9Qz4OD1owWtSq3RgKZs6ygSVYDCWe0YcZMVTjW8as3QgAqodOVwg3yp86Iz8BnKtBEuioSLVroyYfC5Rw03BkBYaQbvk96LaSsUHGyrWptECY0M5KOdpKwNPa7R4d8OvZVyfFeAYDeBVE7FMEK2VIz42D+NuBPHhpSdNgGZ/QKZdoHXGmWLtMuy6NoI7Pqcc8QtlWWPfPhgiLhItMaCUY7R18YysQYsYsVzWRHDlryp4=

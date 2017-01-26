@@ -2,6 +2,8 @@ app/google*.html
 app/scripts/analytics.js
 app/themes/default-theme/fonts/*
 bower_components
+!app/bower_components/start-elements/
+!app/bower_components/start-google-analytics-tracker/
 deploy
 dist
 node_modules
