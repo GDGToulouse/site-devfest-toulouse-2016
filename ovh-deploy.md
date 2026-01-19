@@ -6,12 +6,74 @@ Ce guide explique comment déployer le site DevFest Toulouse 2016 sur un héberg
 
 - Hébergement mutualisé OVH (Pro ou Performance recommandé pour SSH)
 - Accès FTP ou SSH à l'hébergement
-- Node.js >= 4.0 installé localement
+- **Node.js 6.x** (voir section compatibilité ci-dessous)
 - Nom de domaine `devfesttoulouse.fr` configuré chez OVH
+
+## Compatibilité Node.js
+
+> **Important** : Ce projet date de 2016 et nécessite **Node.js 6.x** pour builder correctement.
+> Les versions récentes de Node.js (14+) ne sont pas compatibles avec les dépendances du projet.
+
+### Installation de Node.js 6 avec nvm
+
+#### Windows (nvm-windows)
+
+1. Téléchargez et installez [nvm-windows](https://github.com/coreybutler/nvm-windows/releases)
+2. Ouvrez un terminal **en administrateur** :
+
+```bash
+# Installer Node.js 6
+nvm install 6.17.1
+
+# Utiliser cette version
+nvm use 6.17.1
+
+# Vérifier
+node -v  # Doit afficher v6.17.1
+```
+
+#### Linux / macOS (nvm)
+
+```bash
+# Installer nvm si pas déjà fait
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+
+# Redémarrer le terminal, puis :
+nvm install 6.17.1
+nvm use 6.17.1
+
+# Vérifier
+node -v  # Doit afficher v6.17.1
+```
+
+#### Alternative : Docker
+
+Si vous ne souhaitez pas installer Node 6 sur votre machine :
+
+```bash
+# Build avec Docker
+docker run --rm -v "$(pwd):/app" -w /app node:6 bash -c "npm install && npm install -g bower gulp && bower install --allow-root && gulp init && gulp"
+```
+
+### Revenir à votre version Node.js habituelle
+
+```bash
+# Lister les versions installées
+nvm list
+
+# Revenir à une autre version (exemple)
+nvm use 22
+```
 
 ## Étape 1 : Build du projet
 
 ```bash
+# S'assurer d'utiliser Node 6
+node -v  # Doit afficher v6.x.x
+
+# Supprimer node_modules si vous aviez installé avec une autre version
+rm -rf node_modules
+
 # Installer les dépendances
 npm install
 bower install
