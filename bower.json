@@ -11,16 +11,13 @@
     "platinum-elements": "PolymerElements/platinum-elements#2.0.x",
     "neon-elements": "PolymerElements/neon-elements#1.0.x",
     "neon-animation": "PolymerElements/neon-animation#1.2.4",
-    "molecules": "PolymerElements/molecules#1.0.x",
     "google-web-components": "GoogleWebComponents/google-web-components#1.0.x",
     "font-roboto": "StartPolymer/font-empty#1.1.x",
     "page": "visionmedia/page.js#1.6.x",
     "time-elements": "~0.4.x",
     "disqus-comments": "divshot/disqus-comments#0915a95"
   },
-  "devDependencies": {
-    "web-component-tester": "*"
-  },
+  "devDependencies": {},
   "ignore": [],
   "resolutions": {
     "polymer": "^1.1.0",

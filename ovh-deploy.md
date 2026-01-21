@@ -6,15 +6,35 @@ Ce guide explique comment déployer le site DevFest Toulouse 2016 sur un héberg
 
 - Hébergement mutualisé OVH (Pro ou Performance recommandé pour SSH)
 - Accès FTP ou SSH à l'hébergement
-- **Node.js 6.x** (voir section compatibilité ci-dessous)
+- **Docker** (recommandé) ou **Node.js 8.x** (voir section compatibilité ci-dessous)
 - Nom de domaine `devfesttoulouse.fr` configuré chez OVH
 
 ## Compatibilité Node.js
 
-> **Important** : Ce projet date de 2016 et nécessite **Node.js 6.x** pour builder correctement.
+> **Important** : Ce projet date de 2016 et nécessite **Node.js 8.x** pour builder correctement.
 > Les versions récentes de Node.js (14+) ne sont pas compatibles avec les dépendances du projet.
 
-### Installation de Node.js 6 avec nvm
+### Méthode recommandée : Docker (Windows/Linux/macOS)
+
+Docker est la méthode la plus fiable car elle évite les problèmes de compatibilité entre Windows et les outils de build.
+
+#### Windows (PowerShell)
+
+```powershell
+# Build avec Docker (depuis le dossier du projet)
+docker run --rm -v "${PWD}:/app" -w /tmp node:8 bash -c "cp -r /app /tmp/build && cd /tmp/build && rm -f yarn.lock package-lock.json && npm install && npm install -g bower gulp@3.9.1 && bower install --allow-root && gulp init && gulp && rm -rf /app/dist && cp -r /tmp/build/dist /app/"
+```
+
+#### Linux / macOS
+
+```bash
+# Build avec Docker
+docker run --rm -v "$(pwd):/app" -w /tmp node:8 bash -c "cp -r /app /tmp/build && cd /tmp/build && rm -f yarn.lock package-lock.json && npm install && npm install -g bower gulp@3.9.1 && bower install --allow-root && gulp init && gulp && rm -rf /app/dist && cp -r /tmp/build/dist /app/"
+```
+
+> **Note** : La commande copie le projet dans `/tmp/build` à l'intérieur du conteneur pour éviter les problèmes de compatibilité entre NTFS (Windows) et le système de fichiers Linux du conteneur.
+
+### Alternative : nvm (si Docker n'est pas disponible)
 
 #### Windows (nvm-windows)
 
@@ -22,14 +42,14 @@ Ce guide explique comment déployer le site DevFest Toulouse 2016 sur un héberg
 2. Ouvrez un terminal **en administrateur** :
 
 ```bash
-# Installer Node.js 6
-nvm install 6.17.1
+# Installer Node.js 8
+nvm install 8.17.0
 
 # Utiliser cette version
-nvm use 6.17.1
+nvm use 8.17.0
 
 # Vérifier
-node -v  # Doit afficher v6.17.1
+node -v  # Doit afficher v8.17.0
 ```
 
 #### Linux / macOS (nvm)
@@ -39,20 +59,11 @@ node -v  # Doit afficher v6.17.1
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
 
 # Redémarrer le terminal, puis :
-nvm install 6.17.1
-nvm use 6.17.1
+nvm install 8.17.0
+nvm use 8.17.0
 
 # Vérifier
-node -v  # Doit afficher v6.17.1
-```
-
-#### Alternative : Docker
-
-Si vous ne souhaitez pas installer Node 6 sur votre machine :
-
-```bash
-# Build avec Docker
-docker run --rm -v "$(pwd):/app" -w /app node:6 bash -c "npm install && npm install -g bower gulp && bower install --allow-root && gulp init && gulp"
+node -v  # Doit afficher v8.17.0
 ```
 
 ### Revenir à votre version Node.js habituelle
@@ -67,15 +78,22 @@ nvm use 22
 
 ## Étape 1 : Build du projet
 
+### Avec Docker (recommandé)
+
+Utilisez la commande Docker ci-dessus. Le dossier `dist/` sera créé automatiquement dans votre projet.
+
+### Sans Docker (avec nvm)
+
 ```bash
-# S'assurer d'utiliser Node 6
-node -v  # Doit afficher v6.x.x
+# S'assurer d'utiliser Node 8
+node -v  # Doit afficher v8.x.x
 
 # Supprimer node_modules si vous aviez installé avec une autre version
 rm -rf node_modules
 
 # Installer les dépendances
 npm install
+npm install -g bower gulp@3.9.1
 bower install
 
 # Initialiser (télécharge fonts Google et analytics.js)

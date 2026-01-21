@@ -57,15 +57,11 @@ gulp.task('lint-js', ['ensureFiles'], function() {
     //.pipe($.if(!browserSync.active, $.jshint.reporter('fail')));
 });
 
-// Optimize images
+// Copy images (optimization disabled for Docker compatibility)
 gulp.task('images', function() {
   return gulp.src('app/images/**/*')
-    .pipe($.imagemin({
-      progressive: true,
-      interlaced: true
-    }))
     .pipe(gulp.dest('dist/images'))
-    .pipe($.size({title: 'Copy optimized images to dist/images dir:'}));
+    .pipe($.size({title: 'Copy images to dist/images dir:'}));
 });
 
 // Copy all files at the root level (app)
@@ -384,9 +380,8 @@ gulp.task('pagespeed', require(task('pagespeed'))(config));
 // Test Tasks
 // ----------
 
-// Load tasks for web-component-tester
-// Adds tasks for `gulp test:local` and `gulp test:remote`
-require('web-component-tester').gulp.init(gulp);
+// Web-component-tester removed for build compatibility
+// Test tasks (test:local, test:remote) are not available
 
 // Load custom tasks from the `tasks` directory
 try {
